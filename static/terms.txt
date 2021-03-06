@@ -250,6 +250,7 @@ HolyC: A programming language
 Hop: A programming language
 Hope: A programming language
 Hopscotch: A programming language
+HTML: Markup language for documents meant for a web browser
 Hugo: A programming language
 Hume: A programming language
 HyperTalk: A programming language
