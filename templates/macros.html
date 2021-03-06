@@ -29,7 +29,7 @@
 <ul class="termlist">
 {% for page in pages %}
 <li class="termitem">
-    <b>{{ page.title }}:</b> {{ page.content | safe | striptags }} <a class="termanchor" href="#{{ page.slug }}">#</a> {% if page.extra.link %}<a href="{{ page.extra.link }}">&lt;/&gt;</a>{% endif %}
+    <b>{{ page.title }}:</b> {{ page.content | safe | striptags }} {% if page.extra.link %}<a class="termlink" href="{{ page.extra.link }}">&lt;/&gt;</a>{% endif %}
 </li>
 {% endfor %}
 </ul>
