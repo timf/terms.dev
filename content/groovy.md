@@ -1,5 +1,5 @@
 +++
-title = "Groovy (programming language)|Groovy (Apache Groovy)"
+title = "Groovy"
 date = 2021-03-05
 slug = "groovy"
 [extra]

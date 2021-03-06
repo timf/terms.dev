@@ -1,5 +1,5 @@
 +++
-title = "Q (programming language from Kx Systems)"
+title = "Q (Kx Systems)"
 date = 2021-03-05
 slug = "q"
 [extra]

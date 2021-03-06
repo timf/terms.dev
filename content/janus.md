@@ -1,5 +1,5 @@
 +++
-title = "Janus (concurrent constraint programming language)"
+title = "Janus (concurrent constraint PL)"
 date = 2021-03-05
 slug = "janus"
 [extra]

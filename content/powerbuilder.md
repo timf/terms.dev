@@ -1,5 +1,5 @@
 +++
-title = "PowerBuilder – 4GL GUI application generator from Sybase"
+title = "PowerBuilder – 4GL GUI generator"
 date = 2021-03-05
 slug = "powerbuilder"
 [extra]

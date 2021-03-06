@@ -1,5 +1,5 @@
 +++
-title = "App Inventor for Androids visual block language"
+title = "App Inventor"
 date = 2021-03-05
 slug = "app-inventor"
 [extra]

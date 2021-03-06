@@ -1,5 +1,5 @@
 +++
-title = "Q# (Microsoft programming language)"
+title = "Q#"
 date = 2021-03-05
 slug = "qsharp"
 [extra]

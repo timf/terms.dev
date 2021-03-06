@@ -1,7 +1,7 @@
 +++
-title = "Ace DASL (Distributed Application Specification Language)"
+title = "DASL (Distributed Application Specification Language)"
 date = 2021-03-05
-slug = "ace-dasl"
+slug = "dasl"
 [extra]
 link = "https://en.wikipedia.org/wiki/Distributed_Application_Specification_Language"
 +++

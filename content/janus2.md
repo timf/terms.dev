@@ -1,5 +1,5 @@
 +++
-title = "Janus (time-reversible computing programming language)"
+title = "Janus (time-reversible computing PL)"
 date = 2021-03-05
 slug = "janus2"
 [extra]

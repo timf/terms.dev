@@ -6,7 +6,6 @@ ABC ALGOL: A programming language
 ABC: A programming language
 ACC: A programming language
 Accent (Rational Synergy): A programming language
-Ace DASL (Distributed Application Specification Language): A programming language
 Action!: A programming language
 ActionScript: A programming language
 Actor: A programming language
@@ -34,7 +33,7 @@ AngelScript: A programming language
 Apache Pig latin: A programming language
 Apex (Salesforce.com, Inc): A programming language
 APL: A programming language
-App Inventor for Androids visual block language: A programming language
+App Inventor: A programming language
 AppleScript: A programming language
 APT: A programming language
 Arc: A programming language
@@ -95,7 +94,7 @@ CLIPS: A programming language
 CLIST: A programming language
 Clojure: A programming language
 CLU: A programming language
-C-- (C minus minus): A programming language
+C--: A programming language
 CMS-2: A programming language
 CMS EXEC (EXEC): A programming language
 COBOL – ISO/IEC 1989: A programming language
@@ -116,7 +115,7 @@ CorVision: A programming language
 COWSEL: A programming language
 Combined Programming Language (CPL): A programming language
 CPL: A programming language
-C++ (C plus plus) – ISO/IEC 14882: A programming language
+C++ – ISO/IEC 14882: A programming language
 Cypher Query Language: A programming language
 Cryptol: A programming language
 Crystal: A programming language
@@ -133,6 +132,7 @@ Cython: A programming language
 D: A programming language
 Dart: A programming language
 Darwin: A programming language
+DASL (Distributed Application Specification Language): A programming language
 DataFlex: A programming language
 Datalog: A programming language
 DATATRIEVE: A programming language
@@ -232,7 +232,7 @@ Gradle: a build tool for the JVM
 GraphTalk (Computer Sciences Corporation): A programming language
 GRASS: A programming language
 Grasshopper: A programming language
-Groovy (programming language)|Groovy (Apache Groovy): A programming language
+Groovy: A programming language
 Hack: A programming language
 HAGGIS: A programming language
 Halide: A programming language
@@ -268,8 +268,8 @@ J: A programming language
 JADE: A programming language
 Jai: A programming language
 JAL: A programming language
-Janus (concurrent constraint programming language): A programming language
-Janus (time-reversible computing programming language): A programming language
+Janus (concurrent constraint PL): A programming language
+Janus (time-reversible computing PL): A programming language
 JASS: A programming language
 Java: A programming language
 JavaFX Script: A programming language
@@ -483,7 +483,7 @@ POP-2: A programming language
 PortablE: A programming language
 PostScript: A programming language
 POV-Ray SDL: A programming language
-PowerBuilder – 4GL GUI application generator from Sybase: A programming language
+PowerBuilder – 4GL GUI generator: A programming language
 Powerhouse: A programming language
 PowerShell: A programming language
 PPL: A programming language
@@ -503,11 +503,11 @@ Pure Data: A programming language
 Pure: A programming language
 PureScript: A programming language
 Python: A programming language
-Q (programming language from Kx Systems): A programming language
+Q (Kx Systems): A programming language
 Qalb: A programming language
 Quantum Computation Language: A programming language
 QPL: A programming language
-Q# (Microsoft programming language): A programming language
+Q#: A programming language
 QtScript: A programming language
 QuakeC: A programming language
 R: A programming language
