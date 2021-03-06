@@ -1,0 +1,8 @@
++++
+title = "Net.Data"
+date = 2021-03-05
+[extra]
+link = "https://en.wikipedia.org/wiki/Net.Data"
++++
+A programming language
+

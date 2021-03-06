@@ -1,7 +1,9 @@
 +++
 title = "Python"
 date = 2021-03-05
+slug = "python"
 [extra]
-link = "https://www.python.org/"
+link = "https://en.wikipedia.org/wiki/Python_(programming_language)"
 +++
-a programming language
+A programming language
+

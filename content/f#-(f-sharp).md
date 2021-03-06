@@ -1,0 +1,8 @@
++++
+title = "F# (F sharp)"
+date = 2021-03-05
+[extra]
+link = "https://en.wikipedia.org/wiki/F_Sharp_(programming_language)"
++++
+A programming language
+

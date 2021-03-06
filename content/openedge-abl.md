@@ -1,0 +1,8 @@
++++
+title = "OpenEdge ABL"
+date = 2021-03-05
+[extra]
+link = "https://en.wikipedia.org/wiki/OpenEdge_Advanced_Business_Language"
++++
+A programming language
+
