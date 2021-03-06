@@ -1,51 +1,10 @@
 #!/usr/bin/env python3
 
-from datetime import datetime
-from pathlib import Path
+from _ import tdlib
 import getopt
-import os
 import sys
 
 HELP = "add-one.py -t <term> -d <definition> [-l <link>] [-s <slug>]"
-
-
-def file_content(term, definition, link=None, slug=None):
-    today = datetime.today().strftime('%Y-%m-%d')
-
-    txt = "+++\n"
-    txt += "title = \"%s\"\n" % term
-    txt += "date = %s\n" % today
-    if slug:
-        txt += "slug = \"%s\"\n" % slug
-    if link:
-        txt += "[extra]\n"
-        txt += "link = \"%s\"\n" % link
-    txt += "+++\n"
-    txt += "%s\n\n" % definition
-
-    return txt
-
-
-def new_term(term, definition, link=None, slug=None):
-    this_file = Path(os.path.realpath(__file__))
-    content_dir = os.path.join(this_file.parent.parent, "content")
-
-    if slug:
-        base_name = slug.lower()
-    else:
-        base_name = term.lower()
-        base_name = base_name.replace(" ", "-")
-    filename = base_name + ".md"
-
-    md_file = os.path.join(content_dir, filename)
-    if os.path.exists(md_file):
-        raise Exception("file already exists: %s" % filename)
-
-    content = file_content(term, definition, link, slug)
-    with open(md_file, 'w') as f:
-        f.write(content)
-
-    print("Created %s" % md_file)
 
 
 def main(argv):
@@ -75,7 +34,7 @@ def main(argv):
         sys.exit(1)
 
     try:
-        new_term(term, definition, link, slug)
+        tdlib.new_term(term, definition, link=link, slug=slug)
     except Exception as e:
         print("ERROR: %s" % e)
 

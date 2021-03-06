@@ -25,9 +25,11 @@ It will auto-reload as you make changes.
 
 You can manually create Markdown files in the `content` directory (see examples there).
 
-Alternatively, you can run `bin/add-one.py -t aterm -d adefinition` to auto-create the file.
+Alternatively, you can run `./bin/add-one.py -t aterm -d adefinition` to auto-create the file.
 This has other options, e.g. to add links or override the URL slug (which is equal to the term
 by default).
+
+Or you can run `./bin/add-many.py` which will intake CSV or JSON files (see `-h`).
 
 ## Contributors
 
