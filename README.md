@@ -3,7 +3,7 @@
 This is the source repository for [terms.dev](https://terms.dev), a website dedicated to one
 simple purpose: listing one, succinct definition for software terms. That's it!
 
-Taking PRs! Happy to take suggestions which is why I made this site public.
+Taking PRs - happy to take suggestions which is why I made this repository public.
 
 Don't have time for that? Just tweet or DM me on Twitter
 ([@peakscale](https://twitter.com/peakscale)). No problem.
