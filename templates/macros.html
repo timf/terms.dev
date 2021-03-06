@@ -1,0 +1,55 @@
+{% macro header() %}
+<div class="header">
+    <ul class="navigation">
+        {% if current_path == "/" %}
+        <li class="current_page_item">{% else %}
+        <li>{% endif %}
+            <a href="/">terms.dev</a>
+        </li>
+        {% if current_path == "/about/" %}
+        <li class="current_page_item">{% else %}
+        <li>{% endif %}
+            <a href="/about/">about</a>
+        </li>
+        {% if current_path == "/feeds/" %}
+        <li class="current_page_item">{% else %}
+        <li>{% endif %}
+            <a href="/feeds/">feeds</a>
+        </li>
+    </ul>
+</div>
+{% endmacro header %}
+
+{% macro post_header(page) %}
+
+{% endmacro post_header %}
+
+{% macro list_pages(pages) %}
+<ul class="termlist">
+{% for page in pages %}
+<li class="termitem">
+    <b>{{ page.title }}:</b> {{ page.content | safe | striptags }} <a class="termanchor" href="#{{ page.slug }}">#</a> {% if page.extra.link %}<a href="{{ page.extra.link }}">&lt;/&gt;</a>{% endif %}
+</li>
+{% endfor %}
+</ul>
+{% endmacro list_posts %}
+
+{% macro pagination(paginator) %}
+<div class="pagination">
+    {% if paginator.previous %}
+    <a rel="prev" href="{{paginator.previous}}" class="btn previous">Newer</a>
+    {% endif %}
+    {% if paginator.next %}
+    <a rel="next" href="{{paginator.next}}" class="btn next">Older</a>
+    {% endif %}
+</div>
+{% endmacro paginator %}
+
+{% macro footer() %}
+<div class="footer">
+    <p>
+    Content is © 2006-{{ now() | date(format="%Y") }} Tim Freeman
+    (MIT license/Unlicense).
+</div>
+{% endmacro footer %}
+

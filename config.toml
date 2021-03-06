@@ -1,0 +1,13 @@
+base_url = "https://terms.dev"
+compile_sass = true
+title = "terms.dev"
+build_search_index = false
+generate_feed = true
+generate_rss = true
+feed_filename = "rss.xml"
+
+[extra]
+debug_mode = false
+slim_summary = false
+slim_content = false
+slim_netlify_identity = false

@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block extra_head %}
+{% endblock extra_head %}
+
+{% block content %}
+{% if paginator %}
+{{ macros::list_pages(pages=paginator.pages) }}
+{% else %}
+{{ macros::list_pages(pages=section.pages) }}
+{% endif %}
+{% endblock content %}
+
+{% block extra_script %}
+{% endblock extra_script %}
