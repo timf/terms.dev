@@ -29,6 +29,12 @@ Alternatively, you can run `bin/add-one.py -t aterm -d adefinition` to auto-crea
 This has other options, e.g. to add links or override the URL slug (which is equal to the term
 by default).
 
+## Contributors
+
+Thank you to all of our contributors!
+
+* [Hillel Wayne](https://hillelwayne.com/)
+
 ## License
 
 Dual-licensed under MIT or the [UNLICENSE](https://unlicense.org).
