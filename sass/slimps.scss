@@ -501,8 +501,9 @@ ul.navigation li.current_page_item > a { color: #660000; }
   margin-right: 0.6em;
 }
 .termlist { 
+  clear: both;
   list-style-type: circle;
-  margin: 1px 0 30px 0;
+  margin: 10px 0 30px 0;
   line-height:1em;
   padding-left:1em;
 }
