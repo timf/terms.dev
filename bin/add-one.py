@@ -30,10 +30,12 @@ def new_term(term, definition, link=None, slug=None):
     this_file = Path(os.path.realpath(__file__))
     content_dir = os.path.join(this_file.parent.parent, "content")
 
-    filename = term.lower()
     if slug:
-        filename = slug.lower()
-    filename = filename + ".md"
+        base_name = slug.lower()
+    else:
+        base_name = term.lower()
+        base_name = base_name.replace(" ", "-")
+    filename = base_name + ".md"
 
     md_file = os.path.join(content_dir, filename)
     if os.path.exists(md_file):
