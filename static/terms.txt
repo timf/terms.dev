@@ -1,0 +1,4 @@
+Gradle: a build tool for the JVM
+Python: a programming language
+React: a JavaScript UI framework
+Rspec: a Ruby testing framework
