@@ -1,4 +1,688 @@
+A-0 System: A programming language
+A.NET (A#/A sharp): A programming language
+A+ (A (plus): A programming language
+ABAP: A programming language
+ABC ALGOL: A programming language
+ABC: A programming language
+ACC: A programming language
+Accent (Rational Synergy): A programming language
+Ace DASL (Distributed Application Specification Language): A programming language
+Action!: A programming language
+ActionScript: A programming language
+Actor: A programming language
+Ada: A programming language
+Adenine (Haystack): A programming language
+AdvPL: A programming language
+Agda: A programming language
+Agilent VEE: A programming language
+Agora: A programming language
+AIMMS: A programming language
+Aldor: A programming language
+Alef: A programming language
+ALF: A programming language
+ALGOL 58: A programming language
+ALGOL 60: A programming language
+ALGOL 68: A programming language
+ALGOL W: A programming language
+Alice (Alice ML): A programming language
+Alma-0: A programming language
+AmbientTalk: A programming language
+Amiga E: A programming language
+AMOS (AMOS BASIC): A programming language
+AMPL: A programming language
+AngelScript: A programming language
+Apache Pig latin: A programming language
+Apex (Salesforce.com, Inc): A programming language
+APL: A programming language
+App Inventor for Androids visual block language: A programming language
+AppleScript: A programming language
+APT: A programming language
+Arc: A programming language
+ARexx: A programming language
+Argus: A programming language
+Assembly language (ASM): A programming language
+AutoIt: A programming language
+AutoLISP / Visual LISP: A programming language
+Averest: A programming language
+AWK: A programming language
+Axum: A programming language
+B: A programming language
+Babbage: A programming language
+Ballerina: A programming language
+Bash: A programming language
+BASIC: A programming language
+Batch file (Windows MS-DOS): A programming language
+bc (basic calculator): A programming language
+BCPL: A programming language
+BeanShell: A programming language
+Bertrand: A programming language
+BETA: A programming language
+BLISS: A programming language
+Blockly: A programming language
+BlooP: A programming language
+Boo: A programming language
+Boomerang: A programming language
+Bosque: A programming language
+C – ISO/IEC 9899: A programming language
+C/AL: A programming language
+Caché ObjectScript: A programming language
+Caml: A programming language
+Cayenne (Lennart Augustsson): A programming language
+CDuce: A programming language
+Cecil: A programming language
+CEEMAC: A programming language
+Cesil (Computer Education in Schools Instruction Language): A programming language
+Céu: A programming language
+Ceylon: A programming language
+CFEngine: A configuration mgmt system and programming language
+Cg (High-Level Shader/Shading Language [HLSL]): A programming language
+Ch: A programming language
+Chapel (Cascade High Productivity Language): A programming language
+Charm: A programming language
+CHILL: A programming language
+CHIP-8: A programming language
+chomski (pattern parsing virtual machine/pep): A programming language
+Constraint Handling Rules (CHR): A programming language
+ChucK: A programming language
+Common Intermediate Language (CIL): A programming language
+Cilk (also Cilk++ and Cilk plus): A programming language
+CL (IBM i Control Language) (IBM): A programming language
+Claire: A programming language
+Clarion: A programming language
+Clean: A programming language
+Clipper: A programming language
+CLIPS: A programming language
+CLIST: A programming language
+Clojure: A programming language
+CLU: A programming language
+C-- (C minus minus): A programming language
+CMS-2: A programming language
+CMS EXEC (EXEC): A programming language
+COBOL – ISO/IEC 1989: A programming language
+CobolScript – COBOL Scripting language: A programming language
+Cobra: A programming language
+CoffeeScript: A programming language
+ColdFusion: A programming language
+COMAL: A programming language
+COMIT: A programming language
+Common Lisp (also known as CL): A programming language
+COMPASS: A programming language
+Component Pascal: A programming language
+COMTRAN: A programming language
+Cool: A programming language
+Coq: A programming language
+Coral 66: A programming language
+CorVision: A programming language
+COWSEL: A programming language
+Combined Programming Language (CPL): A programming language
+CPL: A programming language
+C++ (C plus plus) – ISO/IEC 14882: A programming language
+Cypher Query Language: A programming language
+Cryptol: A programming language
+Crystal: A programming language
+C Shell (csh): A programming language
+C# (C sharp) – ISO/IEC 23270: A programming language
+Csound: A programming language
+C*: A programming language
+Cuneiform: A programming language
+Curl: A programming language
+Curry: A programming language
+Cybil: A programming language
+Cyclone: A programming language
+Cython: A programming language
+D: A programming language
+Dart: A programming language
+Darwin: A programming language
+DataFlex: A programming language
+Datalog: A programming language
+DATATRIEVE: A programming language
+DAX (Data Analysis Expressions): A programming language
+dBase: A programming language
+dc: A programming language
+DCL: A programming language
+Delphi: A programming language
+DIBOL: A programming language
+DinkC: A programming language
+Dog: A programming language
+.QL: A programming language
+Draco: A programming language
+DRAKON: A programming language
+Dylan: A programming language
+DYNAMO: A programming language
+E: A programming language
+Ease: A programming language
+Easy PL/I: A programming language
+EASYTRIEVE PLUS: A programming language
+eC: A programming language
+ECMAScript: A programming language
+Edinburgh IMP: A programming language
+EGL: A programming language
+Eiffel: A programming language
+ELAN: A programming language
+Elixir: A programming language
+Elm: A programming language
+Emacs Lisp: A programming language
+Emerald: A programming language
+Epigram: A programming language
+EPL (Easy Programming Language): A programming language
+EPL (Eltron Programming Language): A programming language
+Erlang: A programming language
+es: A programming language
+Escher: A programming language
+ESPOL: A programming language
+Esterel: A programming language
+Etoys: A programming language
+Euclid: A programming language
+Euler: A programming language
+Euphoria: A programming language
+EusLisp Robot Programming Language: A programming language
+EXEC 2: A programming language
+Executable UML: A programming language
+Ezhil: A programming language
+F# (F sharp): A programming language
+F-Script: A programming language
+F: A programming language
+Factor: A programming language
+Fantom: A programming language
+FAUST: A programming language
+FFP: A programming language
+fish: A programming language
+Fjölnir: A programming language
+FL: A programming language
+Flavors: A programming language
+Flex: A programming language
+Flix: A programming language
+FlooP: A programming language
+FLOW-MATIC: A programming language
+FOCAL: A programming language
+FOCUS: A programming language
+FOIL: A programming language
+FORMAC: A programming language
+@Formula: A programming language
+Forth: A programming language
+Fortran – ISO/IEC 1539: A programming language
+Fortress: A programming language
+FP: A programming language
+Franz Lisp: A programming language
+F*: A programming language
+Futhark: A programming language
+G-code: A programming language
+Game Maker Language (Scripting language): A programming language
+GameMonkey Script: A programming language
+GAMS (General Algebraic Modeling System): A programming language
+GAP: A programming language
+GDL (Geometric Description Language): A programming language
+GDScript (Godot): A programming language
+Genie: A programming language
+GEORGE: A programming language
+GLSL (OpenGL Shading Language): A programming language
+GNU E: A programming language
+GNU Guile (GNU Ubiquitous Intelligent Language for Extensions): A programming language
+Go: A programming language
+Go!: A programming language
+GOAL (Game Oriented Assembly Lisp): A programming language
+Gödel: A programming language
+Golo: A programming language
+GOM (Good Old Mad): A programming language
+Google Apps Script: A programming language
+Gosu: A programming language
+GOTRAN (IBM 1620): A programming language
+GPSS (General Purpose Simulation System): A programming language
 Gradle: a build tool for the JVM
-Python: a programming language
+GraphTalk (Computer Sciences Corporation): A programming language
+GRASS: A programming language
+Grasshopper: A programming language
+Groovy (programming language)|Groovy (Apache Groovy): A programming language
+Hack: A programming language
+HAGGIS: A programming language
+Halide: A programming language
+HAL/S: A programming language
+Hamilton C shell: A programming language
+Harbour: A programming language
+Hartmann pipelines: A programming language
+Haskell: A programming language
+Haxe: A programming language
+Hermes: A programming language
+High Level Assembly: A programming language
+HLSL: A programming language
+Hollywood: A programming language
+HolyC: A programming language
+Hop: A programming language
+Hope: A programming language
+Hopscotch: A programming language
+Hugo: A programming language
+Hume: A programming language
+HyperTalk: A programming language
+IBM Basic assembly language: A programming language
+IBM HAScript: A programming language
+IBM Informix-4GL: A programming language
+IBM RPG: A programming language
+Icon: A programming language
+IDL: A programming language
+Idris: A programming language
+Inform: A programming language
+Io: A programming language
+J# (J sharp): A programming language
+J: A programming language
+JADE: A programming language
+Jai: A programming language
+JAL: A programming language
+Janus (concurrent constraint programming language): A programming language
+Janus (time-reversible computing programming language): A programming language
+JASS: A programming language
+Java: A programming language
+JavaFX Script: A programming language
+JavaScript: A programming language
+JCL: A programming language
+JEAN: A programming language
+Jess: A programming language
+Join Java: A programming language
+JOSS: A programming language
+Joule: A programming language
+JOVIAL: A programming language
+Joy: A programming language
+J++: A programming language
+JScript .NET: A programming language
+JScript: A programming language
+Julia: A programming language
+Jython: A programming language
+K: A programming language
+Kaleidoscope: A programming language
+Karel: A programming language
+KEE: A programming language
+KIF: A programming language
+Kixtart: A programming language
+Klerer-May System: A programming language
+Kodu: A programming language
+Kojo: A programming language
+Kotlin: A programming language
+KRC: A programming language
+KRL (KUKA Robot Language): A programming language
+KRL: A programming language
+KRYPTON: A programming language
+KornShell (ksh): A programming language
+Kv: A programming language
+LabVIEW: A programming language
+Ladder: A programming language
+Language H: A programming language
+LANSA: A programming language
+Lasso: A programming language
+Lava: A programming language
+LC-3: A programming language
+Lean: A programming language
+Legoscript: A programming language
+LIL: A programming language
+LilyPond: A programming language
+Limbo: A programming language
+Limnor: A programming language
+LINC: A programming language
+Lingo: A programming language
+LINQ: A programming language
+LIS: A programming language
+LISA: A programming language
+Lisp – ISO/IEC 13816: A programming language
+Lite-C: A programming language
+Lithe: A programming language
+Little b: A programming language
+LiveCode: A programming language
+LiveScript: A programming language
+LLL: A programming language
+Logo: A programming language
+Logtalk: A programming language
+LotusScript: A programming language
+LPC: A programming language
+LSE: A programming language
+LSL: A programming language
+Lua: A programming language
+Lucid: A programming language
+Lustre: A programming language
+LYaPAS: A programming language
+Lynx: A programming language
+M#: A programming language
+M2001: A programming language
+M4: A programming language
+Machine code: A programming language
+MAD (Michigan Algorithm Decoder): A programming language
+MAD/I: A programming language
+Magik: A programming language
+Magma: A programming language
+Máni: A programming language
+Maple: A programming language
+MAPPER (now part of BIS): A programming language
+MARK-IV (now VISION:BUILDER): A programming language
+Mary: A programming language
+MASM Microsoft Assembly x86: A programming language
+MATH-MATIC: A programming language
+MATLAB: A programming language
+Maude system: A programming language
+Max (Max Msp – Graphical Programming Environment): A programming language
+Maxima (see also Macsyma): A programming language
+MaxScript internal language 3D Studio Max: A programming language
+Maya (MEL): A programming language
+MDL: A programming language
+Mercury: A programming language
+Mesa: A programming language
+MHEG-5 (Interactive TV programming language): A programming language
+Microcode: A programming language
+MicroScript: A programming language
+MIIS: A programming language
+Milk: A programming language
+MIMIC: A programming language
+Mirah: A programming language
+Miranda: A programming language
+MIVA Script: A programming language
+ML: A programming language
+Model 204: A programming language
+Modelica: A programming language
+Modula-2: A programming language
+Modula-3: A programming language
+Modula: A programming language
+Mohol: A programming language
+MOO: A programming language
+Mortran: A programming language
+Mouse: A programming language
+MPD: A programming language
+Mystic Programming Language (MPL): A programming language
+MSL: A programming language
+MUMPS: A programming language
+MuPAD: A programming language
+Mutan: A programming language
+Napier88: A programming language
+NASM: A programming language
+Neko: A programming language
+Nemerle: A programming language
+NESL: A programming language
+Net.Data: A programming language
+NetLogo: A programming language
+NetRexx: A programming language
+NewLISP: A programming language
+NEWP: A programming language
+Newspeak: A programming language
+NewtonScript: A programming language
+Nial: A programming language
+Nickle (NITIN): A programming language
+Nim: A programming language
+Nix (Systems configuration language): A programming language
+NPL: A programming language
+Not Quite C (NQC): A programming language
+NSIS: A programming language
+Nu: A programming language
+NWScript: A programming language
+Not eXactly C (NXC): A programming language
+NXT-G: A programming language
+o:XML: A programming language
+Oak: A programming language
+Oberon: A programming language
+OBJ2: A programming language
+Object Lisp: A programming language
+Object Pascal: A programming language
+Object REXX: A programming language
+Objective-C: A programming language
+Objective-J: A programming language
+ObjectLOGO: A programming language
+Obliq: A programming language
+OCaml: A programming language
+occam-π: A programming language
+occam: A programming language
+Octave: A programming language
+OmniMark: A programming language
+Opa: A programming language
+Opal: A programming language
+OpenCL: A programming language
+OpenEdge ABL: A programming language
+OpenVera: A programming language
+OPL: A programming language
+OPS5: A programming language
+OptimJ: A programming language
+Orc: A programming language
+ORCA/Modula-2: A programming language
+Oriel: A programming language
+Orwell: A programming language
+Oxygene: A programming language
+Oz: A programming language
+P′′: A programming language
+P: A programming language
+P4: A programming language
+ParaSail: A programming language
+PARI/GP: A programming language
+Pascal Script: A programming language
+Pascal – ISO 7185: A programming language
+PCASTL: A programming language
+PCF: A programming language
+PDL: A programming language
+PEARL: A programming language
+PeopleCode: A programming language
+Perl: A programming language
+Pharo: A programming language
+PHP: A programming language
+Pico: A programming language
+Picolisp: A programming language
+Pict: A programming language
+Pike: A programming language
+PILOT: A programming language
+Pipelines: A programming language
+Pizza: A programming language
+PL-11: A programming language
+PL/0: A programming language
+PL360: A programming language
+PLANC: A programming language
+Plankalkül: A programming language
+Planner: A programming language
+PL/B: A programming language
+PL/C: A programming language
+PLEX: A programming language
+PLEXIL: A programming language
+PL/I – ISO 6160: A programming language
+PL/M: A programming language
+PL/P: A programming language
+PL/SQL: A programming language
+Plus: A programming language
+POP-11: A programming language
+POP-2: A programming language
+PortablE: A programming language
+PostScript: A programming language
+POV-Ray SDL: A programming language
+PowerBuilder – 4GL GUI application generator from Sybase: A programming language
+Powerhouse: A programming language
+PowerShell: A programming language
+PPL: A programming language
+Pro*C: A programming language
+Processing.js: A programming language
+Processing: A programming language
+Prograph: A programming language
+PROIV: A programming language
+Project Verona: A programming language
+Prolog: A programming language
+PROMAL: A programming language
+Promela: A programming language
+PROSE modeling language: A programming language
+PROTEL: A programming language
+ProvideX: A programming language
+Pure Data: A programming language
+Pure: A programming language
+PureScript: A programming language
+Python: A programming language
+Q (programming language from Kx Systems): A programming language
+Qalb: A programming language
+Quantum Computation Language: A programming language
+QPL: A programming language
+Q# (Microsoft programming language): A programming language
+QtScript: A programming language
+QuakeC: A programming language
+R: A programming language
+Racket: A programming language
+Raku: A programming language
+RAPID: A programming language
+Rapira: A programming language
+Ratfiv: A programming language
+Ratfor: A programming language
+rc: A programming language
 React: a JavaScript UI framework
+Reason: A programming language
+REBOL: A programming language
+Red: A programming language
+Redcode: A programming language
+REFAL: A programming language
+REXX: A programming language
+Rlab: A programming language
+ROOP: A programming language
+RPG: A programming language
+RPL: A programming language
+R++: A programming language
+RSL: A programming language
 Rspec: a Ruby testing framework
+RTL/2: A programming language
+Ruby: A programming language
+Rust: A programming language
+S-Lang: A programming language
+S-PLUS: A programming language
+S/SL: A programming language
+S: A programming language
+S2: A programming language
+S3: A programming language
+SA-C: A programming language
+SabreTalk: A programming language
+SAIL: A programming language
+SAS: A programming language
+SASL: A programming language
+Sather: A programming language
+Sawzall: A programming language
+SBL: A programming language
+Scala: A programming language
+Scheme: A programming language
+Scilab: A programming language
+Scratch: A programming language
+Script.NET: A programming language
+Sed: A programming language
+Seed7: A programming language
+Self: A programming language
+SenseTalk: A programming language
+SequenceL: A programming language
+Serpent: A programming language
+SETL: A programming language
+SIGNAL: A programming language
+SiMPLE: A programming language
+SIMPOL: A programming language
+SIMSCRIPT: A programming language
+Simula: A programming language
+Simulink: A programming language
+Singularity: A programming language
+SISAL: A programming language
+SLIP: A programming language
+SMALL: A programming language
+Smalltalk: A programming language
+SML: A programming language
+Snap!: A programming language
+SNOBOL (SPITBOL): A programming language
+Snowball: A programming language
+SOL: A programming language
+Solidity: A programming language
+SOPHAEROS: A programming language
+Source: A programming language
+SP/k: A programming language
+SPARK: A programming language
+Speakeasy: A programming language
+Speedcode: A programming language
+SPIN: A programming language
+SPS: A programming language
+SQL: A programming language
+SQR: A programming language
+Squeak: A programming language
+Squirrel: A programming language
+SR: A programming language
+Starlogo: A programming language
+Stata: A programming language
+Stateflow: A programming language
+Strand: A programming language
+Strongtalk: A programming language
+Subtext: A programming language
+SuperCollider: A programming language
+SuperTalk: A programming language
+Swift (Apple programming language): A programming language
+Swift (parallel scripting language): A programming language
+SYMPL: A programming language
+SystemVerilog: A programming language
+T-SQL: A programming language
+T: A programming language
+TACL: A programming language
+TACPOL: A programming language
+TADS: A programming language
+TAL: A programming language
+Tcl: A programming language
+Tea: A programming language
+TECO: A programming language
+TELCOMP: A programming language
+TeX: A programming language
+TEX: A programming language
+TIE: A programming language
+TMG, compiler-compiler: A programming language
+Toi: A programming language
+Tom: A programming language
+Topspeed: A programming language
+TPU: A programming language
+Trac: A programming language
+Transcript: A programming language
+TTCN: A programming language
+TTM: A programming language
+Turing: A programming language
+TUTOR: A programming language
+TXL: A programming language
+Tynker: A programming language
+TypeScript: A programming language
+Ubercode: A programming language
+UCSD Pascal: A programming language
+Umple: A programming language
+Unicon: A programming language
+Uniface: A programming language
+UNITY: A programming language
+Unix shell: A programming language
+UnrealScript: A programming language
+Vala: A programming language
+Verilog: A programming language
+VHDL: A programming language
+Vim script: A programming language
+Viper: A programming language
+Visual DataFlex: A programming language
+Visual DialogScript: A programming language
+Visual FoxPro: A programming language
+Visual J++: A programming language
+Visual LISP: A programming language
+Visual Objects: A programming language
+Visual Prolog: A programming language
+WATFIV, WATFOR: A programming language
+WebAssembly: A programming language
+WebDNA: A programming language
+Whiley: A programming language
+Winbatch: A programming language
+Wolfram Language: A programming language
+Wyvern: A programming language
+X++: A programming language
+X10: A programming language
+xBase: A programming language
+xBase++: A programming language
+XBL: A programming language
+XC (targets XMOS architecture): A programming language
+xHarbour: A programming language
+XL: A programming language
+Xod: A programming language
+Xojo: A programming language
+XOTcl: A programming language
+XPL: A programming language
+XPL0: A programming language
+XQuery: A programming language
+XSB: A programming language
+XSharp: A programming language
+XSLT: A programming language
+Xtend: A programming language
+Yoix: A programming language
+Yorick: A programming language
+YQL: A programming language
+YUI: A programming language
+Z++: A programming language
+Z notation: A programming language
+Zebra, ZPL, ZPL2: A programming language
+Zeno: A programming language
+ZetaLisp: A programming language
+Zig: A programming language
+ZOPL: A programming language
+ZPL: A programming language
