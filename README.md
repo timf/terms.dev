@@ -37,10 +37,13 @@ Thank you to all of our contributors!
 
 * [Hillel Wayne](https://hillelwayne.com/)
 
-## License
+## Licenses
 
 Dual-licensed under MIT or the [UNLICENSE](https://unlicense.org).
 
 The site is built with [Zola](https://getzola.org) and [Slim](https://github.com/jameshclrk/zola-slim).
 Thank you to those project contributors. The original CSS and macros for the Slim theme remain MIT
 and copyright the original authors.
+
+The Google Cloud Platform definitions are modified versions of [google-cloud-4-words](https://github.com/gregsramblings/google-cloud-4-words) which has a separate [license](https://github.com/gregsramblings/google-cloud-4-words/blob/master/LICENSE).
+
