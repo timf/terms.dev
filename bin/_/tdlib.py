@@ -8,6 +8,7 @@ def file_content(term, definition, link=None, slug=None):
 
     txt = "+++\n"
     txt += "title = \"%s\"\n" % term
+    txt += "weight = 33\n"
     txt += "date = %s\n" % today
     if slug:
         txt += "slug = \"%s\"\n" % slug

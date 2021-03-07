@@ -1,5 +1,6 @@
 +++
 title = "IAM (Identity and Access Management)"
+weight = 33
 date = 2021-03-06
 slug = "iam"
 [extra]

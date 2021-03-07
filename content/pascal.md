@@ -1,5 +1,6 @@
 +++
 title = "Pascal – ISO 7185"
+weight = 33
 date = 2021-03-06
 slug = "pascal"
 [extra]

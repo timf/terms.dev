@@ -1,5 +1,6 @@
 +++
 title = "Not eXactly C (NXC)"
+weight = 33
 date = 2021-03-06
 slug = "nxc"
 [extra]

@@ -1,5 +1,6 @@
 +++
 title = "CL (IBM i Control Language) (IBM)"
+weight = 33
 date = 2021-03-06
 slug = "cl-ibm"
 [extra]

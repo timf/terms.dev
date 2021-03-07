@@ -1,5 +1,6 @@
 +++
 title = "ATS (Applied Type System)"
+weight = 33
 date = 2021-03-06
 slug = "ats"
 [extra]

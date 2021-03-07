@@ -1,5 +1,6 @@
 +++
 title = "GOM (Good Old Mad)"
+weight = 33
 date = 2021-03-06
 slug = "gom"
 [extra]

@@ -1,5 +1,6 @@
 +++
 title = "C# (C sharp) – ISO/IEC 23270"
+weight = 33
 date = 2021-03-06
 slug = "csharp"
 [extra]

@@ -1,5 +1,6 @@
 +++
 title = "MASM Microsoft Assembly x86"
+weight = 33
 date = 2021-03-06
 slug = "masm"
 [extra]

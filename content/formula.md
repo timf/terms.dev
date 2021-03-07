@@ -1,5 +1,6 @@
 +++
 title = "@Formula"
+weight = 33
 date = 2021-03-06
 slug = "formula"
 [extra]

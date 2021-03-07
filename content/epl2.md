@@ -1,5 +1,6 @@
 +++
 title = "EPL (Eltron Programming Language)"
+weight = 33
 date = 2021-03-06
 slug = "epl2"
 [extra]
