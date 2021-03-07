@@ -1,6 +1,6 @@
 +++
 title = "Argus"
-date = 2021-03-05
+date = 2021-03-06
 [extra]
 link = "https://en.wikipedia.org/wiki/Argus_(programming_language)"
 +++

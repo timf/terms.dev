@@ -1,6 +1,6 @@
 +++
 title = "Ceylon"
-date = 2021-03-05
+date = 2021-03-06
 [extra]
 link = "https://en.wikipedia.org/wiki/Ceylon_(programming_language)"
 +++
