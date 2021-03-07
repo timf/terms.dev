@@ -7,6 +7,9 @@ ABC: A programming language
 absl-py: Abseil Python Common Libraries
 ACC: A programming language
 Accent (Rational Synergy): A programming language
+account: Unique customer record with associated data and authentication credentials. In many enterprise systems, a customer account is different from the 1->N users within it.
+ACL (Access Control List): Defines what an entity may or may not do (permissions list)
+ACM (Association for Computing Machinery): Organization with mission to advance computing as a science and a profession
 Action!: A programming language
 ActionScript: A programming language
 Actor: A programming language
@@ -24,6 +27,7 @@ aioopenssl: Python library - TLS-capable transport using OpenSSL for asyncio
 aiosasl: Python library - Pure-python, protocol agnostic SASL library for asyncio
 aioxmpp: Python library - XMPP library for asyncio
 alabaster: Python library - A configurable sidebar-enabled Sphinx theme
+alarm: Notification that a metric (or compound metric) has crossed an unacceptable threshold
 Aldor: A programming language
 Alef: A programming language
 alembic: Python library - A database migration tool for SQLAlchemy
@@ -46,6 +50,7 @@ ansible: Python library - IT automation
 AnyChart: JavaScript library - data visualization
 Apache Pig latin: A programming language
 Apex (Salesforce.com, Inc): A programming language
+API (Application Programming Interface): Defines operations that can be called on a remote service or library
 APL: A programming language
 App Inventor: A programming language
 appdirs: Python library - determine platform-specific dirs, e.g. a user data dir"."
@@ -58,19 +63,25 @@ argon2-cffi: Python library - Argon2 password hashing algorithm
 argparse: Python library - command-line parsing library
 Argus: A programming language
 arrow: Python library - dates & times
+artifact: A produced 'thing' (files, diagrams, documents)
 Assembly language (ASM): A programming language
 asn1crypto: Python library - Fast ASN.1 parser and serializer with definitions for private keys, public keys, certificates, CRL, OCSP, CMS, PKCS#3, PKCS#7, PKCS#8, PKCS#12, PKCS#5, X.509 and TSP
 astroid: Python library - An abstract syntax tree
+asymmetric encryption: Encryption that uses a public key to verify something was signed by a separate private key
 async-generator: Python library - Async generators and context managers for Python 3.5+
 async-timeout: Python library - Timeout context manager for asyncio programs
+atomic counter: A variable that can be read and mutated without inconsistencies from other threads or nodes trying to do the same
 atomicwrites: Python library - Atomic file writes.
+ATS (Applied Type System): An FP language suitable for system programming
 attrs: Python library - Classes Without Boilerplate
+authentication: Act of proving an identity to a computer system
 AutoIt: A programming language
 AutoLISP / Visual LISP: A programming language
 Averest: A programming language
 AWK: A programming language
 awscli: Python library - CLI for AWS.
 Axum: A programming language
+AZ (Availability Zone): Term used across cloud computing providers to mean a distinct and isolated set datacenter(s) within a region
 azure-common: Python library - Microsoft Azure Client Library
 azure-core: Python library - Microsoft Azure Core Library
 azure-devops: Python library - Python wrapper around the Azure DevOps 6.x APIs
@@ -84,11 +95,11 @@ Babylon.js: JavaScript library - real time 3D engine
 Backbone.js: JavaScript MVC library with a RESTful JSON interface
 backcall: Python library - Specifications for callback functions passed in to an API
 backports-abc: Python library - A backport of recent additions to the 'collections.abc' module.
-backports-shutil-get-terminal-size: Python library - A backport of the get_terminal_size function from Python 3.3's shutil.
 Ballerina: A programming language
 Bash: A programming language
 BASIC: A programming language
 Batch file (Windows MS-DOS): A programming language
+batch processing: Compute jobs run asynchronously without human interaction
 bc (basic calculator): A programming language
 BCPL: A programming language
 bcrypt: Python library - Modern password hashing for your software and your servers
@@ -96,6 +107,7 @@ BeanShell: A programming language
 beautifulsoup4: Python library - Screen-scraping library
 Bertrand: A programming language
 BETA: A programming language
+BGP (Border Gateway Protocol): Standardized protocol to exchange routing information on the internet
 billiard: Python library - Python multiprocessing fork with improvements and bugfixes
 black: Python library - code formatter
 bleach: Python library - safelist-based HTML-sanitizing tool
@@ -111,6 +123,7 @@ boto3: Python library - AWS SDK
 botocore: Python library - core of boto 3
 C – ISO/IEC 9899: A programming language
 C/AL: A programming language
+CA (Certificate Authority): Entity that issues certificates (typically X.509)
 Caché ObjectScript: A programming language
 cached-property: Python library - decorator for caching properties in classes
 cachetools: Python library - memoizing collections and decorators
@@ -118,11 +131,13 @@ Caml: A programming language
 Cappuccino: Web application framework - see Objective-J
 Cascade Framework: CSS framework with optional JavaScript extensions
 Cayenne (Lennart Augustsson): A programming language
+CDN (Content Delivery Network): Distributed network of servers that host content closer to clients
 CDuce: A programming language
 Cecil: A programming language
 CEEMAC: A programming language
 celery: Python library - Distributed Task Queue
 certifi: Python library - Mozilla's CA Bundle
+certificate: Digital document used to prove ownership of a private key
 Cesil (Computer Education in Schools Instruction Language): A programming language
 Céu: A programming language
 Ceylon: A programming language
@@ -210,6 +225,7 @@ DAX (Data Analysis Expressions): A programming language
 dBase: A programming language
 dc: A programming language
 DCL: A programming language
+DDoS (Distributed Denial of Service Attack): Deliberate disruption of network services from thousands of coordinated machines
 decorator: Python library - decorators
 defusedxml: Python library - XML bomb protection for Python stdlib modules
 Delphi: A programming language
@@ -220,12 +236,14 @@ distlib: Python library - Distribution utilities
 distro: Python library - OS platform information API
 django: Python library - Web framework
 djangorestframework: Python library - Web APIs for Django
+DNS (Domain Name System): Decentralized network of services that associate information with domain names
 dnspython: Python library - DNS toolkit
 docker: Python library - client for Docker Engine API
 docopt: Python library - Pythonic argument parser, that will make you smile
 docutils: Python library - Python Documentation Utilities
 Dog: A programming language
 Dojo Toolkit: JavaScript library for cross-platform, JavaScript/Ajax-based applications and web sites
+domain name: Identification string on the internet
 .QL: A programming language
 Draco: A programming language
 DRAKON: A programming language
@@ -243,12 +261,14 @@ Edinburgh IMP: A programming language
 EGL: A programming language
 Eiffel: A programming language
 ELAN: A programming language
+Elasticsearch: Search engine
 elasticsearch: Python library - client for Elasticsearch
 Elixir: A programming language
 Elm: A programming language
 Emacs Lisp: A programming language
 Ember.js: JavaScript web framework
 Emerald: A programming language
+enterprise software: Software for larger organizations instead of individuals
 entrypoints: Python library - Discover and load entry points from installed packages.
 enum34: Python library - Python 3.4 Enum backported to 3.3, 3.2, 3.1, 2.7, 2.6, 2.5, and 2.4
 Enyo: JavaScript web application framework
@@ -278,6 +298,7 @@ F: A programming language
 Factor: A programming language
 Fantom: A programming language
 FAUST: A programming language
+FFI (Foreign Function Interface): Mechanism for one programming language to call into another
 FFP: A programming language
 filelock: Python library - A platform independent file lock.
 fish: A programming language
@@ -301,6 +322,7 @@ Fortran – ISO/IEC 1539: A programming language
 Fortress: A programming language
 Foundation by ZURB: JavaScript-based web framework
 FP: A programming language
+FP (Functional Programming): Programming paradigm focused on applying and composing functions
 Franz Lisp: A programming language
 fsspec: Python library - File-system specification
 F*: A programming language
@@ -388,6 +410,7 @@ Hop: A programming language
 Hope: A programming language
 Hopscotch: A programming language
 hpack: Python library - HPACK header compression
+HSM (Hardware Security Module): Physical device that performs encryption/decryption and protects private keys
 hstspreload: Python library - Chromium HSTS Preload list as a Python package
 HTML: Markup language for documents meant for a web browser
 html5lib: Python library - HTML parser based on the WHATWG HTML specification
@@ -399,11 +422,13 @@ Hugo: A programming language
 Hume: A programming language
 hyperframe: Python library - HTTP/2 framing layer
 HyperTalk: A programming language
+IAM (Identity and Access Management): Term for all the policies and technologies related to authentication and authorization
 IBM Basic assembly language: A programming language
 IBM HAScript: A programming language
 IBM Informix-4GL: A programming language
 IBM RPG: A programming language
 Icon: A programming language
+IDE (Integrated Development Environment): Code editor that often includes language-specific features like a debugger
 IDL: A programming language
 idna: Python library - Internationalized Domain Names in Applications (IDNA)
 Idris: A programming language
@@ -412,7 +437,10 @@ imagesize: Python library - image size from png/jpeg/jpeg2000/gif file
 importlib-metadata: Python library - Read metadata from Python packages
 importlib-resources: Python library - Read resources from Python packages
 Inform: A programming language
+infrastructure-as-code: Practice of creating and managing infrastructure programmatically for repeatability
+interface: Defines operations that can be called on a class or library
 Io: A programming language
+IoT (Internet of Things): Technologies surrounding large groups of physical, often embedded devices
 ipaddress: Python library - IPv4/IPv6 manipulation library
 ipykernel: Python library - IPython Kernel for Jupyter
 ipython-genutils: Python library - Vestigial utilities from IPython
@@ -437,6 +465,7 @@ JavaScript: A programming language
 JavaScriptMVC: JavaScript web application framework
 JCL: A programming language
 jdcal: Python library - Julian dates from proleptic Gregorian and Julian calendars
+JDK (Java Development Kit): SDK for Java
 JEAN: A programming language
 jedi: Python library - An autocompletion tool for Python that can be used for text editors
 jeepney: Python library - Low-level, DBus protocol wrapper
@@ -488,7 +517,7 @@ KRL (KUKA Robot Language): A programming language
 KRL: A programming language
 KRYPTON: A programming language
 KornShell (ksh): A programming language
-kubernetes: Python library - Kubernetes client
+Kubernetes: Container orchestration system
 Kv: A programming language
 LabVIEW: A programming language
 Ladder: A programming language
@@ -606,6 +635,7 @@ MUMPS: A programming language
 MuPAD: A programming language
 Mustache: Templating system
 Mutan: A programming language
+MVC (Model View Controller): Design pattern used primarily for user interfaces
 mypy-extensions: Python library - type system extensions for programs checked with the mypy typechecker
 mysqlclient: Python library - MySQL client
 Napier88: A programming language
@@ -625,6 +655,7 @@ NewLISP: A programming language
 NEWP: A programming language
 Newspeak: A programming language
 NewtonScript: A programming language
+NFS (Network File System): Shared, multi-client filesystem hosted on a network
 Nial: A programming language
 Nickle (NITIN): A programming language
 Nim: A programming language
@@ -663,6 +694,7 @@ Opal: A programming language
 OpenCL: A programming language
 opencv-python: Python library - Wrapper package for OpenCV python bindings.
 OpenEdge ABL: A programming language
+OpenJDK: Free and open-source JDK
 openpyxl: Python library - read/write Excel 2010 xlsx/xlsm files
 OpenUI5 by SAP: JavaScript application framework
 OpenVera: A programming language
@@ -835,6 +867,7 @@ Redcode: A programming language
 redis: Python library - client for Redis key-value store
 REFAL: A programming language
 regex: Python library - Alternative regular expression module, to replace re.
+Region: Term used across cloud computing providers usually referring to a group of AZs in the same general vicinity
 requests-oauthlib: Python library - OAuthlib authentication support for Requests
 requests-toolbelt: Python library - A utility belt for advanced users of python-requests
 requests: Python library - HTTP client
@@ -882,6 +915,7 @@ scipy: Python library - Scientific Library for Python
 Scratch: A programming language
 Script.aculo.us: JavaScript library for dynamic visual effects and UI
 Script.NET: A programming language
+SDK (Software Development Kit): Bundle of tools and libraries for developing applications for a specific platform or API
 secretstorage: Python library - bindings to FreeDesktop.org Secret Service API
 Sed: A programming language
 Seed7: A programming language
@@ -890,6 +924,7 @@ send2trash: Python library - Send file to trash natively under Mac OS X, Windows
 SenseTalk: A programming language
 SequenceL: A programming language
 Serpent: A programming language
+Service Catalog: Organized collection of services usable in an enterprise
 SETL: A programming language
 setuptools-scm: Python library - the blessed package to manage your versions by scm tags
 setuptools: Python library - manage Python packages
@@ -925,6 +960,7 @@ sortedcontainers: Python library - Sorted Containers -- Sorted List, Sorted Dict
 soupsieve: Python library - A modern CSS selector implementation for Beautiful Soup
 Source: A programming language
 SP/k: A programming language
+SPA (Single Page Applications): Web application that dynamically rewrites the current page vs. navigating to a new one
 SPARK: A programming language
 Speakeasy: A programming language
 Speedcode: A programming language
@@ -940,6 +976,7 @@ SQR: A programming language
 Squeak: A programming language
 Squirrel: A programming language
 SR: A programming language
+SSO (Single Sign On): Authentication scheme that allows a user to log in once and get access to multiple, independent systems
 Starlogo: A programming language
 Stata: A programming language
 Stateflow: A programming language
@@ -996,6 +1033,7 @@ TPU: A programming language
 tqdm: Python library - Progress Meter
 Trac: A programming language
 traitlets: Python library - configuration system
+Transcoding: Conversion of one file/encoding format to another (usually r.e. audio/video media)
 Transcript: A programming language
 TTCN: A programming language
 TTM: A programming language
@@ -1024,6 +1062,7 @@ UnrealScript: A programming language
 uritemplate: Python library - URI templates
 urllib3: Python library - HTTP
 uvloop: Python library - asyncio event loop on top of libuv
+V8 Engine: JavaScript interpreter that runs in the Chrome browser but is also used elsewhere (notably Node.js)
 Vala: A programming language
 Velocity.js: JavaScript library for website animation
 Verge3D: JavaScript library - real-time 3D renderer for website animation
@@ -1040,7 +1079,9 @@ Visual J++: A programming language
 Visual LISP: A programming language
 Visual Objects: A programming language
 Visual Prolog: A programming language
+VPS (Virtual Private Server): Personal VM in the cloud, usually a simplified experience
 Vue.js: JavaScript UI framework
+WAF (Web Application Firewall): Firewall that can inspect web/L7 traffic
 Wakanda Framework: JavaScript platform for web and mobile apps
 WATFIV, WATFOR: A programming language
 wcwidth: Python library - Measures the displayed width of unicode strings in a terminal
@@ -1060,6 +1101,7 @@ Wolfram Language: A programming language
 wrapt: Python library - Module for decorators, wrappers and monkey patching
 Wyvern: A programming language
 X++: A programming language
+X.509 certificate: Popular type of certificate, used to secure HTTPS/SSL/TLS
 X10: A programming language
 xBase: A programming language
 xBase++: A programming language
