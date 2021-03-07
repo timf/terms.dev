@@ -7,9 +7,12 @@ ABC: A programming language
 absl-py: Abseil Python Common Libraries
 ACC: A programming language
 Accent (Rational Synergy): A programming language
+Access Transparency: GCP service: Audit cloud provider access
 account: Unique customer record with associated data and authentication credentials. In many enterprise systems, a customer account is different from the 1->N users within it.
 ACL (Access Control List): Defines what an entity may or may not do (permissions list)
+ACM PCA (Private Certificate Authority): AWS managed private CA
 ACM (Association for Computing Machinery): Organization with mission to advance computing as a science and a profession
+ACM (Amazon Certificate Manager): AWS service to provision and manage SSL/TLS certificates
 Action!: A programming language
 ActionScript: A programming language
 Actor: A programming language
@@ -19,6 +22,14 @@ AdvPL: A programming language
 Agda: A programming language
 Agilent VEE: A programming language
 Agora: A programming language
+AI Platform Data Labeling: GCP service: Data labeling by humans
+AI Platform Deep Learning Containers: GCP service: Preconfigured containers for deep learning
+AI Platform Deep Learning VMs: GCP service: Preconfigured VMs for deep learning
+AI Platform: GCP service: Managed platform for ML
+AI Platform Notebooks: GCP service: Managed JupyterLab notebook instances
+AI Platform Pipelines: GCP service: Hosted ML workflows
+AI Platform Predictions: GCP service: Autoscaled model serving
+AI Platform Training: GCP service: Distributed AI training
 AIMMS: A programming language
 aioconsole: Python library - Asynchronous console and interfaces for asyncio
 aiofiles: Python library - File support for asyncio
@@ -38,23 +49,44 @@ ALGOL 68: A programming language
 ALGOL W: A programming language
 Alice (Alice ML): A programming language
 Alma-0: A programming language
+Amazon VPC (Virtual Private Cloud): AWS service for creating and managing virtual networks
 AmbientTalk: A programming language
+AMI (Amazon Machine Image): Template file for the hard drive used on an EC2 instance. Pronounced ah-mee""
 Amiga E: A programming language
 AMOS (AMOS BASIC): A programming language
 AMPL: A programming language
+Amplify: AWS tools and services for web and mobile apps
 amqp: Python library - Low-level AMQP client
 AngelScript: A programming language
 Angular: TypeScript-based web application framework
 AngularJS: JavaScript-based web framework
 ansible: Python library - IT automation
+Anthos Clusters: GCP service: Hybrid/on-prem Kubernetes Engine
+Anthos Config Management: GCP service: Policy and security automation
+Anthos: GCP service: Enterprise hybrid/multi-cloud platform
+Anthos Service Mesh: GCP service: Managed service mesh (Istio)
 AnyChart: JavaScript library - data visualization
 Apache Pig latin: A programming language
 Apex (Salesforce.com, Inc): A programming language
+API Analytics: GCP service: API metrics
+API Gateway: GCP service: Fully managed API Gateway
+API Gateway: AWS service for managing APIs
+API Monetization: GCP service: Monetize APIs
 API (Application Programming Interface): Defines operations that can be called on a remote service or library
+Apigee API Management: GCP service: API management, development, security
+Apigee API Platform: GCP service: Develop, secure, monitor APIs
+Apigee Hybrid: GCP service: Manage hybrid/multi-cloud API environments
+Apigee Sense: GCP service: API protection from attacks
 APL: A programming language
+App Engine: GCP managed app platform
 App Inventor: A programming language
-appdirs: Python library - determine platform-specific dirs, e.g. a user data dir"."
+App Mesh: AWS service mesh
+appdirs: Python library - determine platform-specific dirs, e.g. a user data dir
+AppFlow: AWS service for integrating SaaS apps and data
 AppleScript: A programming language
+AppSheet: GCP service: No-code App creation
+AppStream 2.0: AWS service for streaming desktop applications
+AppSync: AWS managed GraphQL service
 APT: A programming language
 Arc: A programming language
 ARexx: A programming language
@@ -62,42 +94,53 @@ argcomplete: Python library - Bash tab completion for argparse
 argon2-cffi: Python library - Argon2 password hashing algorithm
 argparse: Python library - command-line parsing library
 Argus: A programming language
+ARN (Amazon Resource Name): Canonical IDs of AWS resources
 arrow: Python library - dates & times
+Artifact Registry: GCP service: Universal package manager
 artifact: A produced 'thing' (files, diagrams, documents)
 Assembly language (ASM): A programming language
-asn1crypto: Python library - Fast ASN.1 parser and serializer with definitions for private keys, public keys, certificates, CRL, OCSP, CMS, PKCS#3, PKCS#7, PKCS#8, PKCS#12, PKCS#5, X.509 and TSP
+asn1crypto: Python library - cryptography, ASN.1 parser and serializer
+Assured Workloads: GCP service: Workload compliance controls
 astroid: Python library - An abstract syntax tree
 asymmetric encryption: Encryption that uses a public key to verify something was signed by a separate private key
 async-generator: Python library - Async generators and context managers for Python 3.5+
 async-timeout: Python library - Timeout context manager for asyncio programs
+Athena: AWS service for analzying data Amazon S3 using SQL
 atomic counter: A variable that can be read and mutated without inconsistencies from other threads or nodes trying to do the same
 atomicwrites: Python library - Atomic file writes.
 ATS (Applied Type System): An FP language suitable for system programming
 attrs: Python library - Classes Without Boilerplate
+Audit Manager: AWS service for continuous compliance auditing
+Aurora: AWS service that offers MySQL and PostgreSQL compatible DBs
 authentication: Act of proving an identity to a computer system
 AutoIt: A programming language
 AutoLISP / Visual LISP: A programming language
+AutoML Natural Language: GCP service: Custom text models
+AutoML Tables: GCP service: Custom structured data models
+AutoML Translation: GCP service: Custom domain-specific translation
+AutoML Video Intelligence: GCP service: Custom video annotation models
+AutoML Vision: GCP service: Custom image models
 Averest: A programming language
 AWK: A programming language
+AWS (Amazon Web Services): Cloud computing provider
+AWS Organizations: Centrally manage AWS accounts and resources
 awscli: Python library - CLI for AWS.
 Axum: A programming language
 AZ (Availability Zone): Term used across cloud computing providers to mean a distinct and isolated set datacenter(s) within a region
 azure-common: Python library - Microsoft Azure Client Library
 azure-core: Python library - Microsoft Azure Core Library
-azure-devops: Python library - Python wrapper around the Azure DevOps 6.x APIs
-azure-mgmt-storage: Python library - Microsoft Azure Storage Management Client Library
-azure-storage-blob: Python library - Microsoft Azure Blob Storage Client Library for Python
-azure-storage-common: Python library - Microsoft Azure Storage Common Client Library for Python
 B: A programming language
 Babbage: A programming language
 babel: Python library - Internationalization utilities
 Babylon.js: JavaScript library - real time 3D engine
 Backbone.js: JavaScript MVC library with a RESTful JSON interface
 backcall: Python library - Specifications for callback functions passed in to an API
-backports-abc: Python library - A backport of recent additions to the 'collections.abc' module.
+Backup: AWS managed backup service
 Ballerina: A programming language
+Bare Metal Solution: GCP service: Hardware for specialized workloads
 Bash: A programming language
 BASIC: A programming language
+Batch: AWS managed batch processing
 Batch file (Windows MS-DOS): A programming language
 batch processing: Compute jobs run asynchronously without human interaction
 bc (basic calculator): A programming language
@@ -108,7 +151,12 @@ beautifulsoup4: Python library - Screen-scraping library
 Bertrand: A programming language
 BETA: A programming language
 BGP (Border Gateway Protocol): Standardized protocol to exchange routing information on the internet
+BigQuery BI Engine: GCP service: In-memory analytics engine
+BigQuery Data Transfer Service: GCP service: Bulk import analytics data
+BigQuery: GCP service: Data warehouse/analytics
+BigQuery ML: GCP service: BigQuery model training/serving
 billiard: Python library - Python multiprocessing fork with improvements and bugfixes
+Binary Authorization: GCP service: Kubernetes deploy-time security
 black: Python library - code formatter
 bleach: Python library - safelist-based HTML-sanitizing tool
 BLISS: A programming language
@@ -121,6 +169,7 @@ Bosque: A programming language
 boto: Python library - Amazon Web Services Library
 boto3: Python library - AWS SDK
 botocore: Python library - core of boto 3
+Braket: AWS quantum computing service
 C – ISO/IEC 9899: A programming language
 C/AL: A programming language
 CA (Certificate Authority): Entity that issues certificates (typically X.509)
@@ -129,14 +178,17 @@ cached-property: Python library - decorator for caching properties in classes
 cachetools: Python library - memoizing collections and decorators
 Caml: A programming language
 Cappuccino: Web application framework - see Objective-J
+Carrier Peering: GCP service: Peer through a carrier
 Cascade Framework: CSS framework with optional JavaScript extensions
 Cayenne (Lennart Augustsson): A programming language
+CDK (Cloud Development Kit): Higher level SDK for AWS
 CDN (Content Delivery Network): Distributed network of servers that host content closer to clients
 CDuce: A programming language
 Cecil: A programming language
 CEEMAC: A programming language
 celery: Python library - Distributed Task Queue
 certifi: Python library - Mozilla's CA Bundle
+Certificate Authority Service: GCP service: Managed private CAs
 certificate: Digital document used to prove ownership of a private key
 Cesil (Computer Education in Schools Instruction Language): A programming language
 Céu: A programming language
@@ -150,7 +202,9 @@ Chaplin.js: JavaScript MVC web framework
 chardet: Python library - Universal encoding detector for Python 2 and 3
 Charm: A programming language
 Chart.js: JavaScript library - data visualization
+Chatbot: Service for monitoring AWS in Slack or Chime
 CHILL: A programming language
+Chime: AWS service for team chat/video conferencing
 CHIP-8: A programming language
 chomski (pattern parsing virtual machine/pep): A programming language
 Constraint Handling Rules (CHR): A programming language
@@ -167,7 +221,89 @@ Clipper: A programming language
 CLIPS: A programming language
 CLIST: A programming language
 Clojure: A programming language
+Cloud APIs: GCP service: APIs for cloud services
+Cloud Armor: GCP service: DDoS protection and WAF
+Cloud Asset Inventory: GCP service: All assets, one place
+Cloud Audit Logs: GCP service: Audit trails for GCP
+Cloud Bigtable: GCP service: Petabyte-scale, low-latency, non-relational
+Cloud Billing API: GCP service: Programmatically manage GCP billing
+Cloud Billing: GCP service: Billing and cost management tools
+Cloud Build: GCP service: Continuous integration/delivery platform
+Cloud CDN: GCP service: Content delivery network
+Cloud Code for IntelliJ: IntelliJ GCP tools
+Cloud Code for VS Code: VS Code GCP tools
+Cloud Code: IDE extension for GCP
+Cloud Composer: GCP service: Managed workflow orchestration service
+Cloud Console: GCP service: Web-based management console
+Cloud Data Fusion: GCP service: Graphically manage data pipelines
+Cloud Data Transfer: GCP service: Data migration tools/CLI
+Cloud Dataflow: GCP service: Stream/batch data processing
+Cloud Dataprep: GCP service: Visual data wrangling
+Cloud Dataproc: GCP service: Managed Spark and Hadoop
+Cloud Debugger: GCP service: Live production debugging
+Cloud Deployment Manager: GCP service: Templated infrastructure deployment
+Cloud Directory: AWS service for managed directories / LDAP
+Cloud DLP: GCP service: Classify and redact sensitive data
+Cloud DNS: GCP service: Programmable DNS serving
+Cloud EKM: GCP service: External keys you control
+Cloud Endpoints: GCP service: Cloud API gateway
+Cloud Filestore: GCP service: Managed NFS server
+Cloud Firestore: GCP service: Serverless NoSQL document DB
+Cloud Foundation Toolkit: GCP service: Infrastructure as Code templates
+Cloud Functions: GCP service: serverless functions
+Cloud Healthcare API: GCP service: Healthcare system GCP interoperability
+Cloud HSM: GCP service: Hardware security module service
+Cloud IAM: GCP service: Resource access control
+Cloud Identity-Aware Proxy: GCP service: Identity-based app access
+Cloud Identity: GCP service: Manage users, devices & apps
+Cloud IoT Core: GCP service: Manage devices, ingest data
+Cloud KMS: GCP service: Hosted key management service
+Cloud Load Balancing: GCP service: Multi-region load distribution/balancing
+Cloud Logging: GCP service: Centralized logging
+Cloud Map: AWS managed service discovery
+Cloud Memorystore: GCP service: Managed Redis and Memcached
+Cloud Mobile App: GCP service: iOS/Android GCP manager app
+Cloud Monitoring: GCP service: Infrastructure and application monitoring
+Cloud NAT: GCP service: Network address translation service
+Cloud Natural Language API: GCP service: Text parsing and analysis
+Cloud Profiler: GCP service: CPU and heap profiling
+Cloud Pub/Sub: GCP service: Global real-time messaging
+Cloud Resource Manager: GCP service: Cloud project metadata management
+Cloud Router: GCP service: VPC/on-prem network route exchange (BGP)
+Cloud Run for Anthos: GCP service: Serverless development for Anthos
+Cloud Run: GCP service: Serverless for containerized applications
+Cloud Scheduler: GCP service: Managed cron job service
+Cloud SDK: CLI for GCP
+Cloud Security Scanner: GCP service: App engine security scanner
+Cloud Shell: Browser-based terminal/CLI for GCP
+Cloud Source Repositories: GCP service: Hosted private git repos
+Cloud Spanner: GCP service: Horizontally scalable relational DB
+Cloud Speech-To-Text API: GCP service: Convert audio to text
+Cloud SQL: GCP service: Managed MySQL, PostgreSQL, SQL Server
+Cloud Storage: GCP service: Multi-class multi-region object storage
+Cloud Talent Solutions API: GCP service: Job search with ML
+Cloud Tasks: GCP service: Asynchronous task execution
+Cloud Text-To-Speech API: GCP service: Convert text to audio
+Cloud Tools for Eclipse: Eclipse GCP tools
+Cloud Tools for Visual Studio: Visual Studio GCP tools
+Cloud TPU: GCP service: Hardware acceleration for ML
+Cloud Trace: GCP service: App latency insights
+Cloud Translation API: GCP service: Language detection and translation
+Cloud Video Intelligence API: GCP service: Scene-level video annotation
+Cloud Vision API: GCP service: Image recognition and classification
+Cloud VPN (HA): GCP service: VPN (Virtual private network connection)
+Cloud Workflows: GCP service: HTTP services orchestration
+Cloud9: AWS browser-based IDE
+CloudFormation: AWS infrastructure-as-code service
+CloudFront: AWS CDN
+CloudHSM: AWS service for accessing HSMs
 cloudpickle: Python library - Extended pickling support for objects
+CloudSearch: AWS managed search service
+CloudShell: Browser based shell with access to your AWS resources
+CloudTrail: AWS service that records all API calls for audit and anomaly detection
+CloudWatch Events: AWS service that delivers notifications of your infrastructure changes
+CloudWatch Logs: AWS service that you can stream all your logs into
+CloudWatch: AWS service for metrics and alarming
 CLU: A programming language
 C--: A programming language
 CMS-2: A programming language
@@ -175,7 +311,15 @@ CMS EXEC (EXEC): A programming language
 COBOL – ISO/IEC 1989: A programming language
 CobolScript – COBOL Scripting language: A programming language
 Cobra: A programming language
+CodeArtifact: AWS managed repositories for software packages
+CodeBuild: AWS service that builds your code
+CodeCommit: AWS service to host git repositories
+CodeDeploy: AWS service that deploys code to both cloud and on-premises resources
+CodeGuru: AWS service for automated code reviews
+CodePipeline: AWS managed continuous-delivery
+CodeStar: Set up applications and CD pipelines on AWS
 CoffeeScript: A programming language
+Cognito: AWS service for user identities, login, data
 ColdFusion: A programming language
 colorama: Python library - Cross-platform colored terminal text
 COMAL: A programming language
@@ -183,12 +327,25 @@ COMIT: A programming language
 Common Lisp (also known as CL): A programming language
 COMPASS: A programming language
 Component Pascal: A programming language
+Comprehend Medical: AWS machine learning / NLP service tailored to medical field
+Comprehend: AWS machine learning / NLP service
+Compute Engine: GCP service: VMs, GPUs, TPUs, Disks
+Compute Optimizer: Analyze your AWS resources for savings
 COMTRAN: A programming language
+Confidential Computing: GCP service: Encrypt data in-use
+Config: AWS service to track resource and configuration changes
 configparser: Python library - Updated configparser from Python 3.8 for Python 2.6+.
+Connect: AWS contact center as a service
+Contact Center AI: GCP service: AI in your contact center
+Container Analysis: GCP service: Automated security scanning
+Container Registry: GCP service: Private container registry/storage
+Context-aware Access: GCP service: End-user attribute-based access control
 contextlib2: Python library - Backports and enhancements for the contextlib module
+Control Tower: Set up and govern multiple AWS accounts
 Cool: A programming language
 Coq: A programming language
 Coral 66: A programming language
+Corretto: AWS distribution of OpenJDK
 CorVision: A programming language
 coverage: Python library - Code coverage
 COWSEL: A programming language
@@ -216,22 +373,42 @@ D3.js: JavaScript library - data visualizations
 Dart: A programming language
 Darwin: A programming language
 DASL (Distributed Application Specification Language): A programming language
+Data Catalog: GCP service: Metadata management service
+Data Exchange: AWS: use third-party data
+Data Pipeline: AWS managed data pipeline
+Data Studio: GCP service: Collaborative data exploration/dashboarding
+Database Migration Service: GCP service: Migrate to Cloud SQL
+Database Migration Service: AWS service to migrate DBs to cloud
 dataclasses: Python library - A backport of the dataclasses module for Python 3.6
 datadog: Python library - Datadog Python library
 DataFlex: A programming language
 Datalog: A programming language
+DataSync: AWS service for data movement to/from on-premises
 DATATRIEVE: A programming language
 DAX (Data Analysis Expressions): A programming language
+DB Insights: GCP service: SQL Inspector
 dBase: A programming language
 dc: A programming language
 DCL: A programming language
 DDoS (Distributed Denial of Service Attack): Deliberate disruption of network services from thousands of coordinated machines
 decorator: Python library - decorators
+Dedicated Interconnect: GCP service: Dedicated private network connection
+DeepComposer: AWS: Hands-on ML learning
+DeepLens: ML enabled camera (AWS)
+DeepRacer: ML based racing simulator/league (AWS)
 defusedxml: Python library - XML bomb protection for Python stdlib modules
 Delphi: A programming language
+Detective: AWS service for analyzing security anomalies
+Developer Portal: GCP API management portal
+Device Farm: AWS managed iOS/Android device testing
+DevOps Guru: AWS ML powered operations service
+Dialogflow: GCP service: Create conversational interfaces
 DIBOL: A programming language
 dill: Python library - serialize all of python
 DinkC: A programming language
+Direct Connect: Get a dedicated network connection to AWS datacenters
+Direct Peering: GCP service: Peer with GCP
+Directory Service: AWS managed Microsoft AD
 distlib: Python library - Distribution utilities
 distro: Python library - OS platform information API
 django: Python library - Web framework
@@ -240,6 +417,8 @@ DNS (Domain Name System): Decentralized network of services that associate infor
 dnspython: Python library - DNS toolkit
 docker: Python library - client for Docker Engine API
 docopt: Python library - Pythonic argument parser, that will make you smile
+Document AI: GCP service: Analyze, classify, search documents
+DocumentDB: AWS service that offers a MongoDB-compatible DB
 docutils: Python library - Python Documentation Utilities
 Dog: A programming language
 Dojo Toolkit: JavaScript library for cross-platform, JavaScript/Ajax-based applications and web sites
@@ -249,33 +428,55 @@ Draco: A programming language
 DRAKON: A programming language
 Dylan: A programming language
 DYNAMO: A programming language
+DynamoDB: AWS managed NoSQL service
 E: A programming language
 Ease: A programming language
 Easy PL/I: A programming language
 EASYTRIEVE PLUS: A programming language
+EBS (Elastic Block Store): AWS service that provides storage volumes to EC2 instances
 eC: A programming language
+EC2 (Elastic Compute Cloud): AWS service for launching and managing servers in Amazon's data centers
+EC2 Auto Scaling: AWS service for launching or terminating servers on your behalf
+EC2 Image Builder: Create and continuously build VM and container images (AWS)
 ecdsa: Python library - ECDSA cryptographic signature library
 Echo: Web application framework for JavaScript (client-side) or Java (server-side)
 ECMAScript: A programming language
+ECR (Elastic Container Registry): AWS managed Docker container registeries
+ECS (Elastic Container Service): AWS service for running containers
 Edinburgh IMP: A programming language
+EFA (Elastic Fabric Adapter): High-speed network interface for EC2
+EFS (Elastic File System): AWS service that provides a shared filesystem with NFSv4 compatibility
 EGL: A programming language
 Eiffel: A programming language
+EKS (Elastic Kubernetes Service): AWS managed Kubernetes service
 ELAN: A programming language
+Elastic Beanstalk: AWS service to deploy and scale web applications
+Elastic Transcoder: AWS transcoding service
+ElastiCache: AWS managed cache clusters (Redis / Memcached)
 Elasticsearch: Search engine
 elasticsearch: Python library - client for Elasticsearch
+Elemental MediaConnect: AWS service for live video ingestion
+Elemental MediaConvert: AWS video transcoding service
+Elemental MediaLive: AWS video transcoding service
+Elemental MediaPackage: AWS video artifact preparation service
+Elemental MediaStore: AWS video artifact storage
+Elemental MediaTailor: AWS video ad injection
 Elixir: A programming language
 Elm: A programming language
 Emacs Lisp: A programming language
 Ember.js: JavaScript web framework
 Emerald: A programming language
+EMR (Elastic MapReduce): AWS managed 'big data' services
 enterprise software: Software for larger organizations instead of individuals
 entrypoints: Python library - Discover and load entry points from installed packages.
-enum34: Python library - Python 3.4 Enum backported to 3.3, 3.2, 3.1, 2.7, 2.6, 2.5, and 2.4
+enum34: Python library - Python 3.4 Enum backported older Python versions
 Enyo: JavaScript web application framework
 Epigram: A programming language
 EPL (Easy Programming Language): A programming language
 EPL (Eltron Programming Language): A programming language
 Erlang: A programming language
+Error Reporting: GCP service: App error reporting
+ES (Elasticsearch Service): AWS managed Elasticsearch clusters
 es: A programming language
 Escher: A programming language
 ESPOL: A programming language
@@ -286,8 +487,12 @@ Euclid: A programming language
 Euler: A programming language
 Euphoria: A programming language
 EusLisp Robot Programming Language: A programming language
+Event Threat Detection: GCP service: Scans for suspicious activity
+Eventarc: GCP service: Event-driven Cloud Run services
+EventBridge: AWS service for ingesting and routing events
 EXEC 2: A programming language
 Executable UML: A programming language
+Explainable AI: GCP service: Understand ML model predictions
 Express.js: JavaScript web application framework for Node.js
 Ext JS by Sencha: JavaScript web application framework
 Ext JS: JavaScript web application framework
@@ -297,10 +502,12 @@ F-Script: A programming language
 F: A programming language
 Factor: A programming language
 Fantom: A programming language
+Fargate: AWS serverless for compute
 FAUST: A programming language
 FFI (Foreign Function Interface): Mechanism for one programming language to call into another
 FFP: A programming language
 filelock: Python library - A platform independent file lock.
+Firewall Manager: AWS service for managing many firewalls
 fish: A programming language
 Fjölnir: A programming language
 FL: A programming language
@@ -314,6 +521,7 @@ FLOW-MATIC: A programming language
 FOCAL: A programming language
 FOCUS: A programming language
 FOIL: A programming language
+Forecast: AWS managed service to produce time-series forecasts
 FORMAC: A programming language
 @Formula: A programming language
 Forth: A programming language
@@ -324,8 +532,10 @@ Foundation by ZURB: JavaScript-based web framework
 FP: A programming language
 FP (Functional Programming): Programming paradigm focused on applying and composing functions
 Franz Lisp: A programming language
+FreeRTOS: Real-time OS for microcontrollers (AWS)
 fsspec: Python library - File-system specification
 F*: A programming language
+FSx: Managed high-performance filesystems on AWS (Lustre, Windows File Server, SMB)
 funcsigs: Python library - Python function signatures from PEP362 for Python 2.6, 2.7 and 3.2+
 FusionCharts: JavaScript library - data visualizations
 Futhark: A programming language
@@ -333,11 +543,13 @@ future: Python library - single-source support for Python 3 and 2
 futures: Python library - Backport of the concurrent.futures package from Python 3
 fuzzywuzzy: Python library - Fuzzy string matching
 G-code: A programming language
+GameLift: AWS managed gaming platform
 Game Maker Language (Scripting language): A programming language
 GameMonkey Script: A programming language
 GAMS (General Algebraic Modeling System): A programming language
 GAP: A programming language
 gast: Python library - Python AST that abstracts the underlying Python version
+GCP (Google Cloud Platform): Cloud computing provider
 gcsfs: Python library - Convenient Filesystem interface over GCS
 GDL (Geometric Description Language): A programming language
 GDScript (Godot): A programming language
@@ -348,7 +560,9 @@ GEORGE: A programming language
 gevent: Python library - Coroutine-based network library
 gitdb: Python library - Git Object Database
 gitpython: Python library - Git Library
+Global Accelerator: AWS networking service that more optimaly routes global traffic
 GLSL (OpenGL Shading Language): A programming language
+Glue: AWS managed ETL
 GNU E: A programming language
 GNU Guile (GNU Ubiquitous Intelligent Language for Extensions): A programming language
 Go: A programming language
@@ -365,27 +579,31 @@ google-auth-oauthlib: Python library - Google Authentication Library
 google-auth: Python library - Google Authentication
 Google Charts: JavaScript library - data visualizations
 Google Closure Library: JavaScript framework for web applications
-google-cloud-bigquery: Python library - Google BigQuery API client library
 google-cloud-core: Python library - Google Cloud API client core library
-google-cloud-logging: Python library - Stackdriver Logging API client library
-google-cloud-pubsub: Python library - Google Cloud Pub/Sub API client
-google-cloud-storage: Python library - Google Cloud Storage API client library
+Google Cloud Game Servers: GCP service: Orchestrate Agones clusters
+Google Cloud Marketplace for Anthos: GCP service: Pre-configured containerized apps
+Google Cloud Service Mesh: GCP service: Service-aware network management
 google-crc32c: Python library - wrapper of the C library 'Google CRC32C'
 google-pasta: Python library - AST-based Python refactoring library
 Google Polymer: JavaScript library for building web applications using Web Components
-google-resumable-media: Python library - Utilities for Google Media Downloads and Resumable Uploads
+Google Transfer Appliance: Rentable data transport box for GCP
 googleapis-common-protos: Python library - Common protobufs used in Google APIs
 Gosu: A programming language
 GOTRAN (IBM 1620): A programming language
 GPSS (General Purpose Simulation System): A programming language
+Gradle App Engine Plugin: Gradle App Engine plugin
 Gradle: a build tool for the JVM
+Grafana (AWS): Amazon Managed Service for Grafana (AMG)
+Grafana: Platform for metrics, traces, logs, visualization, dashboards
 GraphTalk (Computer Sciences Corporation): A programming language
 graphviz: Python library - interface for Graphviz
 GRASS: A programming language
 Grasshopper: A programming language
 Groovy: A programming language
+Ground Station: AWS service for satellite control and data processing
 grpc-google-iam-v1: Python library - GRPC library for the google-iam-v1 service
 grpcio: Python library - HTTP/2-based RPC framework
+GuardDuty: AWS service for monitoring security
 gunicorn: Python library - WSGI HTTP Server for UNIX
 GWT (Google Web Toolkit): Create JavaScript frontends by writing Java
 h11: Python library - A pure-Python, bring-your-own-I/O implementation of HTTP/1.1
@@ -400,12 +618,14 @@ Harbour: A programming language
 Hartmann pipelines: A programming language
 Haskell: A programming language
 Haxe: A programming language
+HealthLake: AWS data management services for medical field
 Hermes: A programming language
 High Level Assembly: A programming language
 Highcharts: JavaScript library - data visualizations
 HLSL: A programming language
 Hollywood: A programming language
 HolyC: A programming language
+Honeycode: AWS 'no code' apps
 Hop: A programming language
 Hope: A programming language
 Hopscotch: A programming language
@@ -434,13 +654,20 @@ idna: Python library - Internationalized Domain Names in Applications (IDNA)
 Idris: A programming language
 ijson: Python library - Iterative JSON parser
 imagesize: Python library - image size from png/jpeg/jpeg2000/gif file
-importlib-metadata: Python library - Read metadata from Python packages
-importlib-resources: Python library - Read resources from Python packages
 Inform: A programming language
 infrastructure-as-code: Practice of creating and managing infrastructure programmatically for repeatability
+Inspector: AWS service that analyzes your security posture
 interface: Defines operations that can be called on a class or library
 Io: A programming language
 IoT (Internet of Things): Technologies surrounding large groups of physical, often embedded devices
+IoT 1-Click: AWS service that allows simple devices to trigger Lambda functions
+IoT Analytics: AWS service to analyze IoT data
+IoT Device Defender: AWS service to audit and monitor IoT devices
+IoT Device Management: AWS service to manage IoT devices
+IoT Events: AWS service to ingest and respond to events from IoT devices
+IoT Greengrass: AWS edge runtime and service for IoT
+IoT SiteWise: AWS service for monitoring industrial equipment
+IoT Things Graph: AWS service for wiring together IoT devices and services
 ipaddress: Python library - IPv4/IPv6 manipulation library
 ipykernel: Python library - IPython Kernel for Jupyter
 ipython-genutils: Python library - Vestigial utilities from IPython
@@ -500,13 +727,19 @@ K: A programming language
 Kaleidoscope: A programming language
 Karel: A programming language
 KEE: A programming language
+Kendra: AWS ML powered search
 keras-preprocessing: Python library - data preprocessing and data augmentation for deep learning models
 keras: Python library - Deep Learning
 keyring: Python library - Store and access your passwords safely
+Keyspaces: AWS Managed Cassandra
+KF: GCP service: Cloud Foundry to Kubernetes
 KIF: A programming language
+Kinesis Data Firehose: AWS service for streaming data directly into storage/DBs
+Kinesis: AWS service for streaming data
 kiwisolver: Python library - A fast implementation of the Cassowary constraint solver
 Kixtart: A programming language
 Klerer-May System: A programming language
+KMS (Key Management Service): AWS service for encryption/decryption that protects private keys
 Knockout: JavaScript implementation of the Model–View–ViewModel pattern
 Kodu: A programming language
 Kojo: A programming language
@@ -517,10 +750,13 @@ KRL (KUKA Robot Language): A programming language
 KRL: A programming language
 KRYPTON: A programming language
 KornShell (ksh): A programming language
+Kubernetes Engine (GKE): GCP service: Managed Kubernetes/containers
 Kubernetes: Container orchestration system
 Kv: A programming language
 LabVIEW: A programming language
 Ladder: A programming language
+Lake Formation: AWS service to manage data lakes
+Lambda: AWS serverless functions
 Language H: A programming language
 LANSA: A programming language
 Lasso: A programming language
@@ -529,7 +765,10 @@ lazy-object-proxy: Python library - lazy object proxy
 LC-3: A programming language
 Lean: A programming language
 Legoscript: A programming language
+Lex: AWS service for AI powered chatbots
+License Manager (AWS): Manage software licenses on AWS
 lightgbm: Python library - LightGBM
+Lightsail: AWS service that abstracts detail to provide a VPS-like experience
 LIL: A programming language
 LilyPond: A programming language
 Limbo: A programming language
@@ -547,15 +786,22 @@ LiveCode: A programming language
 Lively Kernel: JavaScript web programming environment
 LiveScript: A programming language
 LLL: A programming language
+Local SSD: GCP service: VM locally attached SSDs
+Local Zones (AWS): AWS infrastructure optimized for low-latency to certain cities
 lockfile: Python library - Platform-independent file locking module
 Logo: A programming language
 Logtalk: A programming language
+Looker: GCP service: Enterprise BI and Analytics
+Lookout for Equipment: AWS service that analyzes your equipment sensor data looking for anomalies
+Lookout for Metrics: AWS service for anomaly detection in metrics
+Lookout for Vision: AWS service that analyzes images from your manufacturing facility looking for anomalies
 LotusScript: A programming language
 LPC: A programming language
 LSE: A programming language
 LSL: A programming language
 Lua: A programming language
 Lucid: A programming language
+Lumberyard: AWS gaming engine
 Lustre: A programming language
 lxml: Python library - XML processing library
 LYaPAS: A programming language
@@ -564,11 +810,15 @@ M#: A programming language
 M2001: A programming language
 M4: A programming language
 Machine code: A programming language
+Macie: AWS security service for protecting sensitive data
 MAD (Michigan Algorithm Decoder): A programming language
 MAD/I: A programming language
 Magik: A programming language
 Magma: A programming language
 mako: Python library - templating language
+Managed Apache Airflow (MWAA) (AWS): AWS managed Apache Airflow service
+Managed Blockchain: AWS service for creating and managing blockchains
+Managed Service for Microsoft Active Directory: GCP service: Managed Microsoft Active Directory
 Máni: A programming language
 Maple: A programming language
 MAPPER (now part of BIS): A programming language
@@ -582,6 +832,7 @@ MATH-MATIC: A programming language
 MATLAB: A programming language
 matplotlib: Python library - plotting package
 Maude system: A programming language
+Maven App Engine Plugin: Maven App Engine plugin
 Max (Max Msp – Graphical Programming Environment): A programming language
 Maxima (see also Macsyma): A programming language
 MaxScript internal language 3D Studio Max: A programming language
@@ -596,6 +847,10 @@ Microcode: A programming language
 MicroScript: A programming language
 Microsoft's Ajax library: ASP.NET extensions for Ajax
 midori: JavaScript library for web development easier
+Migrate for Anthos: GCP service: Migrate VMs to containers
+Migrate for Compute Engine: GCP service: Compute Engine migration tools
+Migrate from Amazon Redshift: GCP service: Migrate from Redshift to BigQuery
+Migrate from Teradata: GCP service: Migrate from Teradata to BigQuery
 MIIS: A programming language
 Milk: A programming language
 MIMIC: A programming language
@@ -615,7 +870,7 @@ Modula-3: A programming language
 Modula: A programming language
 Mohol: A programming language
 Mojito: JavaScript MVC web application framework
-monotonic: Python library - An implementation of time.monotonic() for Python 2 & < 3.3
+Monitron: AWS service for detecting anomalies in industrial machinery
 MOO: A programming language
 MooTools: JavaScript library - (My Object-Oriented Tools) object-oriented JavaScript framework
 more-itertools: Python library - More routines for operating on iterables, beyond itertools
@@ -625,6 +880,7 @@ mozlog: Python library - Robust log handling specialized for logging in the Mozi
 mozrunner: Python library - Reliable start/stop/configuration of Mozilla Applications (Firefox, Thunderbird, etc.)
 MPD: A programming language
 Mystic Programming Language (MPL): A programming language
+MQ: AWS managed message brokers (ActiveMQ and RabbitMQ)
 msal: Python library - Microsoft Authentication Library (MSAL)
 msgpack: Python library - MessagePack (de)serializer
 MSL: A programming language
@@ -644,12 +900,16 @@ nbconvert: Python library - Converting Jupyter Notebooks
 nbformat: Python library - The Jupyter Notebook format
 Neko: A programming language
 Nemerle: A programming language
+Neptune: AWS graph database
 NESL: A programming language
 nest-asyncio: Python library - Patch asyncio to allow nested event loops
 Net.Data: A programming language
 netaddr: Python library - network address manipulation library
 NetLogo: A programming language
 NetRexx: A programming language
+Network Intelligence Center: GCP service: Network monitoring and topology
+Network Service Tiers: GCP service: Price vs performance tiering
+Network Telemetry: GCP service: Network telemetry service
 networkx: Python library - package for creating and manipulating graphs and networks
 NewLISP: A programming language
 NEWP: A programming language
@@ -657,6 +917,7 @@ Newspeak: A programming language
 NewtonScript: A programming language
 NFS (Network File System): Shared, multi-client filesystem hosted on a network
 Nial: A programming language
+NICE DCV (AWS): high-performance remote display protocol
 Nickle (NITIN): A programming language
 Nim: A programming language
 Nix (Systems configuration language): A programming language
@@ -698,8 +959,10 @@ OpenJDK: Free and open-source JDK
 openpyxl: Python library - read/write Excel 2010 xlsx/xlsm files
 OpenUI5 by SAP: JavaScript application framework
 OpenVera: A programming language
+Operations: GCP service: Monitoring, logging, troubleshooting
 OPL: A programming language
 OPS5: A programming language
+OpsWorks: AWS managed Chef and Puppet
 opt-einsum: Python library - Optimizing numpys einsum function
 OptimJ: A programming language
 Orc: A programming language
@@ -707,6 +970,7 @@ ORCA/Modula-2: A programming language
 ordereddict: Python library - A drop-in substitute for Py2.7's new collections.OrderedDict that works in Python 2.4-2.6.
 Oriel: A programming language
 Orwell: A programming language
+Outposts: AWS managed services in your datacenter
 Oxygene: A programming language
 Oz: A programming language
 P′′: A programming language
@@ -717,10 +981,13 @@ packaging: Python library - utilities for Python packages
 pandas-gbq: Python library - Pandas interface to Google BigQuery
 pandas: Python library - data analysis, time series, and statistics
 pandocfilters: Python library - Utilities for writing pandoc filters in python
+Panorama (AWS): AWS edge-computing device and SDK for vision based predictions
+ParallelCluster: Deploy and manage HPC clusters on AWS
 paramiko: Python library - SSH2 protocol library
 ParaSail: A programming language
 PARI/GP: A programming language
 parso: Python library - A Python Parser
+Partner Interconnect: GCP service: Connect on-prem network to VPC
 Pascal Script: A programming language
 Pascal – ISO 7185: A programming language
 pathlib2: Python library - Object-oriented filesystem paths
@@ -733,6 +1000,9 @@ PDL: A programming language
 PEARL: A programming language
 PeopleCode: A programming language
 Perl: A programming language
+Persistent Disk: GCP service: Block storage for VMs
+Personal Health Dashboard: AWS personalized reporting on AWS issues
+Personalize: AWS service for creating recommender services
 pexpect: Python library - control interactive console applications
 Pharo: A programming language
 PHP: A programming language
@@ -743,6 +1013,7 @@ Pict: A programming language
 Pike: A programming language
 pillow: Python library - Python Imaging Library (Fork)
 PILOT: A programming language
+Pinpoint: AWS service to manage marketing communications
 pip: Python library - manage Python packages.
 Pipelines: A programming language
 pipenv: Python library - Development Workflow
@@ -767,6 +1038,7 @@ PL/SQL: A programming language
 pluggy: Python library - plugin and hook calling mechanisms for python
 Plus: A programming language
 ply: Python library - Lex & Yacc
+Polly: AWS text-to-speech service
 POP-11: A programming language
 POP-2: A programming language
 PortablE: A programming language
@@ -777,6 +1049,8 @@ PowerBuilder – 4GL GUI generator: A programming language
 Powerhouse: A programming language
 PowerShell: A programming language
 PPL: A programming language
+Preemptible VMs: GCP service: Short-lived compute instances
+Private Catalog: GCP service: Internal Solutions Catalog
 Pro*C: A programming language
 Processing.js: JavaScript port of the Processing programming language
 Processing: A programming language
@@ -786,13 +1060,16 @@ Project Verona: A programming language
 Prolog: A programming language
 PROMAL: A programming language
 Promela: A programming language
+Prometheus (AWS): Amazon Managed Service for Prometheus (AMP)
 prometheus-client: Python library - client for the Prometheus monitoring system
 prometheus-flask-exporter: Python library - Prometheus metrics exporter for Flask
+Prometheus: monitoring and time-series database
 prompt-toolkit: Python library - Library for building powerful interactive command lines in Python
 PROSE modeling language: A programming language
 PROTEL: A programming language
 proto-plus: Python library - protocol buffers
 protobuf: Python library - Protocol Buffers
+Proton (AWS): Managed deployment service for containers and serverless
 Prototype JavaScript Framework: JavaScript library - prototype.js. OO, DOM traversal, CSS selection, and Ajax
 ProvideX: A programming language
 psutil: Python library - Cross-platform lib for process and system monitoring
@@ -840,6 +1117,7 @@ pyzmq: Python library - Python bindings for 0MQ
 Q (Kx Systems): A programming language
 Qalb: A programming language
 Quantum Computation Language: A programming language
+QLDB: AWS managed ledger database
 qooxdoo: JavaScript Ajax web application framework
 QPL: A programming language
 Q#: A programming language
@@ -848,6 +1126,7 @@ qtpy: Python library - abstraction layer on top of the various Qt bindings
 QtScript: A programming language
 QuakeC: A programming language
 querystring-parser: Python library - QueryString parser for Python/Django
+QuickSight: AWS analytics / business-intelligence service
 QUnit: JavaScript testing framework
 R: A programming language
 Racket: A programming language
@@ -858,26 +1137,33 @@ Rapira: A programming language
 Ratfiv: A programming language
 Ratfor: A programming language
 rc: A programming language
+RDS (Relational Database Service): AWS managed relational databases
 React.js: JavaScript UI framework
 React: a JavaScript UI framework
 Reason: A programming language
 REBOL: A programming language
+Recommendations AI: GCP service: Create custom recommendations
 Red: A programming language
 Redcode: A programming language
 redis: Python library - client for Redis key-value store
+Redshift: AWS data warehouse
 REFAL: A programming language
 regex: Python library - Alternative regular expression module, to replace re.
 Region: Term used across cloud computing providers usually referring to a group of AZs in the same general vicinity
+Rekognition: AWS service that identifies things in images and videos
 requests-oauthlib: Python library - OAuthlib authentication support for Requests
 requests-toolbelt: Python library - A utility belt for advanced users of python-requests
 requests: Python library - HTTP client
+Resource Access Manager: AWS service for sharing resources
 retrying: Python library - Retrying
 REXX: A programming language
 rfc3986: Python library - Validating URI References per RFC 3986
 RGraph: JavaScript library - data visualizations
 Rialto Toolkit: Ajax-based JavaScript widgets library
 Rlab: A programming language
+RoboMaker: AWS service simulating and deploying robotic applications
 ROOP: A programming language
+Route 53: AWS DNS service
 RPG: A programming language
 RPL: A programming language
 R++: A programming language
@@ -894,11 +1180,14 @@ S-PLUS: A programming language
 S/SL: A programming language
 S: A programming language
 S2: A programming language
+S3 (Simple Storage Service): AWS object storage as a service
+S3 Glacier: AWS long-term object storage service
 S3: A programming language
 s3fs: Python library - interface over S3
 s3transfer: Python library - An Amazon S3 Transfer Manager
 SA-C: A programming language
 SabreTalk: A programming language
+SageMaker: AWS service for ML model creation, training, deployment
 SAIL: A programming language
 sanic: Python library - server and web framework
 SAS: A programming language
@@ -916,7 +1205,12 @@ Scratch: A programming language
 Script.aculo.us: JavaScript library for dynamic visual effects and UI
 Script.NET: A programming language
 SDK (Software Development Kit): Bundle of tools and libraries for developing applications for a specific platform or API
+Secret Manager: GCP service: Store and manage secrets
+Secrets Manager: AWS service for storing and rotating secrets
 secretstorage: Python library - bindings to FreeDesktop.org Secret Service API
+Security Command Center: GCP service: Security management and data risk platform
+Security Hub: AWS service for centralized view of security
+Security Key Enforcement: GCP service: Two-step key verification
 Sed: A programming language
 Seed7: A programming language
 Self: A programming language
@@ -924,18 +1218,26 @@ send2trash: Python library - Send file to trash natively under Mac OS X, Windows
 SenseTalk: A programming language
 SequenceL: A programming language
 Serpent: A programming language
+Server Migration Service: AWS services for migrating applications to the cloud
+Serverless Application Repository: AWS managed repository for serverless apps
+Service Catalog (AWS): AWS managed service catalogs
 Service Catalog: Organized collection of services usable in an enterprise
+SES (Simple Email Service): AWS service for sending emails
 SETL: A programming language
 setuptools-scm: Python library - the blessed package to manage your versions by scm tags
 setuptools: Python library - manage Python packages
 shapely: Python library - Geometric objects, predicates, and operations
+Shield: AWS service that protects you against DDoS attacks
+Shielded VMs: GCP service: Hardened VMs
 SIGNAL: A programming language
+Signer (AWS): Managed code-signing for AWS
 SiMPLE: A programming language
 simplejson: Python library - JSON encoder/decoder for Python
 SIMPOL: A programming language
 SIMSCRIPT: A programming language
 Simula: A programming language
 Simulink: A programming language
+Single Sign-On: AWS managed SSO
 Singularity: A programming language
 SISAL: A programming language
 six: Python library - Python 2 and 3 compatibility
@@ -949,10 +1251,13 @@ smmap: Python library - A pure Python implementation of a sliding window memory 
 Snap!: A programming language
 sniffio: Python library - Sniff out which async library your code is running under
 SNOBOL (SPITBOL): A programming language
+Snowball (AWS): AWS physical device that can be used on-premises and used to deliver files back to AWS
 Snowball: A programming language
 snowballstemmer: Python library - 29 stemmers for 28 languages generated from Snowball algorithms
+SNS (Simple Notification Service): AWS notification service including SMS
 Socket.IO: JavaScript library for realtime web applications
 SOL: A programming language
+Sole-tenant Nodes: GCP service: Dedicated physical servers
 Solidity: A programming language
 SOPHAEROS: A programming language
 sortedcollections: Python library - Sorted Collections
@@ -973,6 +1278,7 @@ SQL: A programming language
 sqlalchemy: Python library - Database Abstraction Library
 sqlparse: Python library - A non-validating SQL parser
 SQR: A programming language
+SQS (Simple Queue Service): AWS message queue service
 Squeak: A programming language
 Squirrel: A programming language
 SR: A programming language
@@ -981,16 +1287,23 @@ Starlogo: A programming language
 Stata: A programming language
 Stateflow: A programming language
 statsmodels: Python library - Statistical computations and models
+Step Functions: AWS service for background/asynchronous jobs (workflow)
+Storage Gateway: AWS service to connect on-premises applications to cloud storage
+Storage Transfer Service: GCP service: Online/on-premises data transfer
 Strand: A programming language
 Strongtalk: A programming language
+STS (Security Token Service): AWS service for requesting temporary credentials
 Subtext: A programming language
+Sumerian: AWS tools for 3D/AR/VR
 SuperCollider: A programming language
 SuperTalk: A programming language
 Svelte: JavaScript front-end framework
+SWF (Simple Workflow Service): AWS service for background/asynchronous jobs
 SWFObject: JavaScript library - used to embed Adobe Flash content
 Swift (Apple programming language): A programming language
 Swift (parallel scripting language): A programming language
 SYMPL: A programming language
+Systems Manager: AWS services for infrastructure visibility and control
 SystemVerilog: A programming language
 T-SQL: A programming language
 T: A programming language
@@ -1006,21 +1319,19 @@ Teechart: JavaScript library - data visualizations
 TELCOMP: A programming language
 tensorboard-plugin-wit: Python library - What-If Tool TensorBoard plugin.
 tensorboard: Python library - TensorBoard lets you watch Tensors Flow
-tensorflow-data-validation: Python library - A library for exploring and validating machine learning data.
-tensorflow-estimator: Python library - TensorFlow Estimator.
-tensorflow-metadata: Python library - Library and standards for schema and statistics.
-tensorflow-model-analysis: Python library - analyze TensorFlow models
-tensorflow-transform: Python library - A library for data preprocessing with TensorFlow
 tensorflow: Python library - machine learning framework
 termcolor: Python library - ANSII Color formatting for output in terminal
 terminado: Python library - Tornado websocket backend for Xterm.js
 testpath: Python library - Test utilities for code working with files and commands
 TeX: A programming language
 TEX: A programming language
+Textract: AWS service for extracting text from images/documents
 tfx-bsl: Python library - tfx_bsl (TFX Basic Shared Libraries) contains libraries shared by many TFX (TensorFlow eXtended) libraries and components.
 Three.js: JavaScript library - 3D graphics in browsers using WebGL
 thrift: Python library - bindings for the Apache Thrift RPC system
 TIE: A programming language
+Timestream: AWS managed time series database
+Titan Security Key: GCP service: Two-factor authentication (2FA) device
 TMG, compiler-compiler: A programming language
 Toi: A programming language
 Tom: A programming language
@@ -1032,9 +1343,14 @@ tox: Python library - tox is a generic virtualenv management and test command li
 TPU: A programming language
 tqdm: Python library - Progress Meter
 Trac: A programming language
+Traffic Director: GCP service: Service mesh traffic management
 traitlets: Python library - configuration system
 Transcoding: Conversion of one file/encoding format to another (usually r.e. audio/video media)
+Transcribe Medical: AWS speech-to-text service tailored to medical field
+Transcribe: AWS speech-to-text service
 Transcript: A programming language
+Translate: AWS service for translating text to and from spoken languages
+Transparent SLIs: GCP service: Monitor GCP services
 TTCN: A programming language
 TTM: A programming language
 Turing: A programming language
@@ -1070,8 +1386,10 @@ Verilog: A programming language
 VHDL: A programming language
 Vim script: A programming language
 Viper: A programming language
+Virtual Private Cloud: GCP service: Software defined networking
 virtualenv-clone: Python library - script to clone virtualenvs
 virtualenv: Python library - Virtual Python Environment builder
+Vision Product Search: GCP service: Visual search for products
 Visual DataFlex: A programming language
 Visual DialogScript: A programming language
 Visual FoxPro: A programming language
@@ -1079,11 +1397,16 @@ Visual J++: A programming language
 Visual LISP: A programming language
 Visual Objects: A programming language
 Visual Prolog: A programming language
+VM Migration: GCP service: VM migration tools
+VMware Engine: GCP service: VMware as a service
+VPC Service Controls: GCP service: VPC data constraints
 VPS (Virtual Private Server): Personal VM in the cloud, usually a simplified experience
 Vue.js: JavaScript UI framework
 WAF (Web Application Firewall): Firewall that can inspect web/L7 traffic
+WAF: AWS managed WAF
 Wakanda Framework: JavaScript platform for web and mobile apps
 WATFIV, WATFOR: A programming language
+Wavelength (AWS): AWS infrastructure optimized for mobile/5G
 wcwidth: Python library - Measures the displayed width of unicode strings in a terminal
 WebAssembly: A programming language
 WebDNA: A programming language
@@ -1098,9 +1421,14 @@ widgetsnbextension: Python library - IPython HTML widgets for Jupyter
 Winbatch: A programming language
 WinJS: JavaScript framework for Windows Store apps
 Wolfram Language: A programming language
+WorkDocs: AWS service for document collaboration (e.g. Word documents)
+WorkLink: AWS service that allows mobile access to your internal sites
+WorkMail: AWS managed email for businesses
+WorkSpaces: AWS service that hosts desktops you can remotely log in to
 wrapt: Python library - Module for decorators, wrappers and monkey patching
 Wyvern: A programming language
 X++: A programming language
+X-Ray: AWS service for tracing distributed application calls
 X.509 certificate: Popular type of certificate, used to secure HTTPS/SSL/TLS
 X10: A programming language
 xBase: A programming language
