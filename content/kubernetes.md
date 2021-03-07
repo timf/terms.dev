@@ -1,8 +1,8 @@
 +++
-title = "kubernetes"
+title = "Kubernetes"
 date = 2021-03-06
 [extra]
-link = "https://pypi.org/project/kubernetes/"
+link = "https://en.wikipedia.org/wiki/Kubernetes"
 +++
-Python library - Kubernetes client
+Container orchestration system
 

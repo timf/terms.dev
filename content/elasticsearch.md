@@ -1,8 +1,8 @@
 +++
-title = "elasticsearch"
+title = "Elasticsearch"
 date = 2021-03-06
 [extra]
-link = "https://pypi.org/project/elasticsearch/"
+link = "https://www.elastic.co/elasticsearch/"
 +++
-Python library - client for Elasticsearch
+Search engine
 

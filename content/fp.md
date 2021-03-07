@@ -1,8 +1,9 @@
 +++
-title = "FP"
-date = 2021-03-05
+title = "FP (Functional Programming)"
+date = 2021-03-06
+slug = "fp"
 [extra]
-link = "https://en.wikipedia.org/wiki/FP_(programming_language)"
+link = "https://en.wikipedia.org/wiki/Functional_programming"
 +++
-A programming language
+Programming paradigm focused on applying and composing functions
 
