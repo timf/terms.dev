@@ -1,5 +1,5 @@
 +++
 title = "terms.dev"
 description = ""
-sort_by = "date"
+sort_by = "none"
 +++
