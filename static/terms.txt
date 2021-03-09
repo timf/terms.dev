@@ -178,6 +178,7 @@ cached-property: Python library - decorator for caching properties in classes
 cachetools: Python library - memoizing collections and decorators
 Caml: A programming language
 Cappuccino: Web application framework - see Objective-J
+Cargo: Packaging and build system for the Rust programming language
 Carrier Peering: GCP service: Peer through a carrier
 Cascade Framework: CSS framework with optional JavaScript extensions
 Cayenne (Lennart Augustsson): A programming language
