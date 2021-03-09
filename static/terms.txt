@@ -8,7 +8,7 @@ absl-py: Abseil Python Common Libraries
 ACC: A programming language
 Accent (Rational Synergy): A programming language
 Access Transparency: GCP service: Audit cloud provider access
-account: Unique customer record with associated data and authentication credentials. In many enterprise systems, a customer account is different from the 1->N users within it.
+account: Unique customer record with associated data and authentication credentials. In many enterprise systems, a customer account is different from the one-to-many users within it.
 ACL (Access Control List): Defines what an entity may or may not do (permissions list)
 ACM PCA (Private Certificate Authority): AWS managed private CA
 ACM (Association for Computing Machinery): Organization with mission to advance computing as a science and a profession
@@ -51,7 +51,7 @@ Alice (Alice ML): A programming language
 Alma-0: A programming language
 Amazon VPC (Virtual Private Cloud): AWS service for creating and managing virtual networks
 AmbientTalk: A programming language
-AMI (Amazon Machine Image): Template file for the hard drive used on an EC2 instance. Pronounced ah-mee""
+AMI (Amazon Machine Image): Template file for the boot drive used on an EC2 instance. Pronounced ah-mee.
 Amiga E: A programming language
 AMOS (AMOS BASIC): A programming language
 AMPL: A programming language
@@ -320,6 +320,7 @@ CodePipeline: AWS managed continuous-delivery
 CodeStar: Set up applications and CD pipelines on AWS
 CoffeeScript: A programming language
 Cognito: AWS service for user identities, login, data
+cold start: When a program is invoked for the first time there may be setup costs and filesystem caching that occurs that makes subsequent invocations faster. Often used in the context of serverless functions, e.g. AWS Lambda.
 ColdFusion: A programming language
 colorama: Python library - Cross-platform colored terminal text
 COMAL: A programming language
