@@ -9,7 +9,7 @@
     {% block post %}
     {{ macros::post_header(page=page) }}
     <div class="post-content">
-        <b>{{ page.title }}:</b> {{ page.content | safe | striptags }}
+        <b>{{ page.title }}:</b> {{ page.content | safe | striptags }} {% if page.extra.link %}<a class="termlink" href="{{ page.extra.link }}">&lt;/&gt;</a>{% endif %}
     </div>
     {% endblock post %}
 </div>
