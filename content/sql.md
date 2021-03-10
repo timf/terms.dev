@@ -5,5 +5,5 @@ date = 2021-03-06
 [extra]
 link = "https://en.wikipedia.org/wiki/SQL"
 +++
-A programming language
+A domain-specific programming language designed for managing data in an RDBMS
 
