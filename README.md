@@ -11,7 +11,8 @@ Don't have time for a PR? Just tweet or DM me on Twitter
 
 Happy to take any suggestions. They should be programming terms or things that software
 developers use to build their products (libraries, databases, cloud services, dev tools,
-etc.). For each major language, I am looking to have around 50-100 of the most popular
+etc.). Descriptions should be boring and short; remove adjectives like "best", "fast",
+etc. For each major language, I am looking to have around 50-100 of the most popular
 libraries.
 
 Thanks!
