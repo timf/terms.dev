@@ -5,6 +5,9 @@ build_search_index = false
 generate_feed = true
 generate_rss = true
 feed_filename = "rss.xml"
+taxonomies = [
+    {name = "groups", feed = true, rss = true},
+]
 
 [extra]
 debug_mode = false

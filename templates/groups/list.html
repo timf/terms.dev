@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+
+{% block title %}
+Groups
+{% endblock title%}
+
+{% block content %}
+<div class="post">
+    <h2 class="post-title"><a href="{{ current_url }}">Groups</a></h2>
+
+    Sometimes it's helpful to narrow down the term list to a specific group you can search within:
+    <div class="taglistsection">
+        <ul>
+            {% for term in terms %}
+            <li>
+                <a href="{{term.permalink}}">
+                    {% if term.name == "aws" %} Amazon Web Services
+                    {% elif term.name == "azure" %} Microsoft Azure
+                    {% elif term.name == "gcp" %} Google Cloud Platform
+                    {% else %} {{ term.name }}{% endif %}
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
+{% endblock content %}
