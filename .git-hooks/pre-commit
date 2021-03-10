@@ -38,5 +38,3 @@ if [ $was_written -eq 0 ]; then
    echo "ERROR: something in terms.txt has changed. Fix and commit it."
    exit 1
 fi
-
-exec git diff-index --check --cached $against --
