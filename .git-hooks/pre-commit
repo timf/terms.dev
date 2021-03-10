@@ -1,0 +1,42 @@
+#!/bin/bash
+
+if git rev-parse --verify HEAD >/dev/null 2>&1
+then
+    against=HEAD
+else
+    against=$(git hash-object -t tree /dev/null)
+fi
+allownonascii=$(git config --type=bool hooks.allownonascii)
+exec 1>&2
+if [ "$allownonascii" != "true" ] &&
+    test $(git diff --cached --name-only --diff-filter=A -z $against |
+      LC_ALL=C tr -d '[ -~]\0' | wc -c) != 0
+then
+    cat <<\EOF
+Error: Attempt to add a non-ASCII file name.
+This can cause problems if you want to work with people on other platforms.
+To be portable it is advisable to rename the file.
+If you know what you are doing you can disable this check using:
+  git config hooks.allownonascii true
+EOF
+    exit 1
+fi
+
+this_dir=$(cd $(dirname $0); pwd)
+
+$this_dir/../bin/generate-static.py | grep 'Wrote file: ' &> /dev/null
+RC=( "${PIPESTATUS[@]}" )
+gen_ret=${RC[0]}
+was_written=${RC[1]}
+
+if [ $gen_ret -ne 0 ]; then
+   echo "ERROR: running generate-static.py failed"
+   exit 1
+fi
+
+if [ $was_written -eq 0 ]; then
+   echo "ERROR: something in terms.txt has changed. Fix and commit it."
+   exit 1
+fi
+
+exec git diff-index --check --cached $against --

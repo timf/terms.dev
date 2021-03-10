@@ -51,15 +51,19 @@ for file in glob.glob("*.md"):
     if file == "_index.md":
         continue
     term, definition = parse_one(file)
-    to_write.append("%s: %s" % (term, definition))
+    to_write.append("%s: %s\n" % (term, definition))
 
 
 static_dir = os.path.join(this_file.parent.parent, "static")
 txt_file_path = os.path.join(static_dir, "terms.txt")
 
-with open(txt_file_path, 'w') as f:
-    for line in to_write:
-        f.write(line)
-        f.write("\n")
+with open(txt_file_path, 'r') as f:
+    current_content = f.readlines()
 
-print("Wrote file: %s" % txt_file_path)
+if current_content == to_write:
+    print("No change.")
+else:
+    with open(txt_file_path, 'w') as f:
+        for line in to_write:
+            f.write(line)
+    print("Wrote file: %s" % txt_file_path)

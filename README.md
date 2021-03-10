@@ -43,6 +43,14 @@ Then navigate to [http://127.0.0.1:1111](http://127.0.0.1:1111)
 
 It will auto-reload as you make changes.
 
+## Text file generation
+
+It's best to change the static file `static/terms.txt` in the same commit where a term was added
+or a definition was changed. This is done via `./bin/generate-static.py`.
+
+If you run `git config core.hooksPath .git-hooks` then `generate-static.py` will be run
+automatically for you and the commit will fail if you hadn't run it yet and something changed.
+
 ## Licenses
 
 Dual-licensed under MIT or the [UNLICENSE](https://unlicense.org).
