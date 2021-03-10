@@ -15,6 +15,9 @@ ACM (Association for Computing Machinery): Organization with mission to advance 
 ACM (Amazon Certificate Manager): AWS service to provision and manage SSL/TLS certificates
 Action!: A programming language
 ActionScript: A programming language
+Active Directory (Azure): Azure service to synchronize on-premises directories to enable SS0
+Active Directory Domain Services: Join Azure VMs to a domain without domain controllers
+Active Directory External Identities: Azure identity and access management
 Actor: A programming language
 Ada: A programming language
 Adenine (Haystack): A programming language
@@ -57,9 +60,11 @@ AMOS (AMOS BASIC): A programming language
 AMPL: A programming language
 Amplify: AWS tools and services for web and mobile apps
 amqp: Python library - Low-level AMQP client
+Analysis Services (Azure): Azure analytics service
 AngelScript: A programming language
 Angular: TypeScript-based web application framework
 AngularJS: JavaScript-based web framework
+Anomaly Detector (Azure): Azure: add anomaly detection to your apps
 ansible: Python library - IT automation
 Anthos Clusters: GCP service: Hybrid/on-prem Kubernetes Engine
 Anthos Config Management: GCP service: Policy and security automation
@@ -69,8 +74,10 @@ AnyChart: JavaScript library - data visualization
 Apache Pig latin: A programming language
 Apex (Salesforce.com, Inc): A programming language
 API Analytics: GCP service: API metrics
+API Apps (Azure): Azure: build and consume Cloud APIs
 API Gateway: GCP service: Fully managed API Gateway
 API Gateway: AWS service for managing APIs
+API Management (Azure): Azure: publish and manage APIs
 API Monetization: GCP service: Monetize APIs
 API (Application Programming Interface): Defines operations that can be called on a remote service or library
 Apigee API Management: GCP service: API management, development, security
@@ -78,17 +85,22 @@ Apigee API Platform: GCP service: Develop, secure, monitor APIs
 Apigee Hybrid: GCP service: Manage hybrid/multi-cloud API environments
 Apigee Sense: GCP service: API protection from attacks
 APL: A programming language
+App Configuration (Azure): Azure parameter storage
 App Engine: GCP managed app platform
 App Inventor: A programming language
 App Mesh: AWS service mesh
+App Service (Azure): Azure: create cloud apps for web and mobile
 appdirs: Python library - determine platform-specific dirs, e.g. a user data dir
 AppFlow: AWS service for integrating SaaS apps and data
 AppleScript: A programming language
+Application Gateway (Azure): Create web front ends in Azure
 AppSheet: GCP service: No-code App creation
 AppStream 2.0: AWS service for streaming desktop applications
 AppSync: AWS managed GraphQL service
 APT: A programming language
+Arc (Azure): Extend Azure management and services outside of Azure
 Arc: A programming language
+Archive Storage (Azure): Azure long-term object storage service
 ARexx: A programming language
 argcomplete: Python library - Bash tab completion for argparse
 argon2-cffi: Python library - Argon2 password hashing algorithm
@@ -98,6 +110,7 @@ ARN (Amazon Resource Name): Canonical IDs of AWS resources
 arrow: Python library - dates & times
 Artifact Registry: GCP service: Universal package manager
 artifact: A produced 'thing' (files, diagrams, documents)
+Artifacts (Azure): Azure managed repositories for software packages
 Assembly language (ASM): A programming language
 asn1crypto: Python library - cryptography, ASN.1 parser and serializer
 Assured Workloads: GCP service: Workload compliance controls
@@ -115,11 +128,14 @@ Aurora: AWS service that offers MySQL and PostgreSQL compatible DBs
 authentication: Act of proving an identity to a computer system
 AutoIt: A programming language
 AutoLISP / Visual LISP: A programming language
+Automanage (Azure): Automated operations for VMs on Azure
+Automation (Azure): Azure service to automate updates
 AutoML Natural Language: GCP service: Custom text models
 AutoML Tables: GCP service: Custom structured data models
 AutoML Translation: GCP service: Custom domain-specific translation
 AutoML Video Intelligence: GCP service: Custom video annotation models
 AutoML Vision: GCP service: Custom image models
+Avere vFXT for Azure: Azure file-based workloads / on-premises caching
 Averest: A programming language
 AWK: A programming language
 AWS (Amazon Web Services): Cloud computing provider
@@ -136,10 +152,13 @@ Babylon.js: JavaScript library - real time 3D engine
 Backbone.js: JavaScript MVC library with a RESTful JSON interface
 backcall: Python library - Specifications for callback functions passed in to an API
 Backup: AWS managed backup service
+Backup (Azure): Azure managed backup service
 Ballerina: A programming language
 Bare Metal Solution: GCP service: Hardware for specialized workloads
 Bash: A programming language
 BASIC: A programming language
+Bastion (Azure): Managed RDP and SSH access to your Azure VMs
+Batch (Azure): Azure: job scheduling and compute management
 Batch: AWS managed batch processing
 Batch file (Windows MS-DOS): A programming language
 batch processing: Compute jobs run asynchronously without human interaction
@@ -160,12 +179,18 @@ Binary Authorization: GCP service: Kubernetes deploy-time security
 black: Python library - code formatter
 bleach: Python library - safelist-based HTML-sanitizing tool
 BLISS: A programming language
+Blob storage Azure: Azure object storage as a service
+Blockchain Service: Azure: build, govern, and expand consortium blockchain networks
+Blockchain Tokens: Azure: define, create, and manage ledger-based tokens
+Blockchain Workbench: Azure: prototype blockchain apps
 Blockly: A programming language
 BlooP: A programming language
+Blueprints (Azure): Azure service for repeatable creation of governed environments
 Boo: A programming language
 Boomerang: A programming language
 Bootstrap: CSS framework
 Bosque: A programming language
+Bot Services: Azure: serverless bot services that scale on demand
 boto: Python library - Amazon Web Services Library
 boto3: Python library - AWS SDK
 botocore: Python library - core of boto 3
@@ -173,6 +198,7 @@ Braket: AWS quantum computing service
 C – ISO/IEC 9899: A programming language
 C/AL: A programming language
 CA (Certificate Authority): Entity that issues certificates (typically X.509)
+Cache for Redis: Azure managed Redis caches
 Caché ObjectScript: A programming language
 cached-property: Python library - decorator for caching properties in classes
 cachetools: Python library - memoizing collections and decorators
@@ -276,6 +302,8 @@ Cloud Run: GCP service: Serverless for containerized applications
 Cloud Scheduler: GCP service: Managed cron job service
 Cloud SDK: CLI for GCP
 Cloud Security Scanner: GCP service: App engine security scanner
+Cloud Services (Azure): Azure: create cloud applications and APIs
+Cloud Shell (Azure): Browser-based shell for Azure
 Cloud Shell: Browser-based terminal/CLI for GCP
 Cloud Source Repositories: GCP service: Hosted private git repos
 Cloud Spanner: GCP service: Horizontally scalable relational DB
@@ -320,6 +348,8 @@ CodeGuru: AWS service for automated code reviews
 CodePipeline: AWS managed continuous-delivery
 CodeStar: Set up applications and CD pipelines on AWS
 CoffeeScript: A programming language
+Cognitive Search: ML-powered cloud search service for Azure
+Cognitive Services: Azure: add ML capabilities via API
 Cognito: AWS service for user identities, login, data
 cold start: When a program is invoked for the first time there may be setup costs and filesystem caching that occurs that makes subsequent invocations faster. Often used in the context of serverless functions, e.g. AWS Lambda.
 ColdFusion: A programming language
@@ -327,12 +357,14 @@ colorama: Python library - Cross-platform colored terminal text
 COMAL: A programming language
 COMIT: A programming language
 Common Lisp (also known as CL): A programming language
+Communication Services (Azure): Azure communication platform
 COMPASS: A programming language
 Component Pascal: A programming language
 Comprehend Medical: AWS machine learning / NLP service tailored to medical field
 Comprehend: AWS machine learning / NLP service
 Compute Engine: GCP service: VMs, GPUs, TPUs, Disks
 Compute Optimizer: Analyze your AWS resources for savings
+Computer Vision (Azure): Azure image recognition service
 COMTRAN: A programming language
 Confidential Computing: GCP service: Encrypt data in-use
 Config: AWS service to track resource and configuration changes
@@ -340,7 +372,12 @@ configparser: Python library - Updated configparser from Python 3.8 for Python 2
 Connect: AWS contact center as a service
 Contact Center AI: GCP service: AI in your contact center
 Container Analysis: GCP service: Automated security scanning
+Container Instances: Azure managed containers
+Container Registry (Azure): Azure: sore and manage container images
 Container Registry: GCP service: Private container registry/storage
+Content Delivery Network (Azure): Azure CDN
+Content Moderator: Azure service: Automated image, text, and video moderation
+Content Protection (Azure): Deliver content using AES, PlayReady, Widevine, and Fairplay via Azure
 Context-aware Access: GCP service: End-user attribute-based access control
 contextlib2: Python library - Backports and enhancements for the contextlib module
 Control Tower: Set up and govern multiple AWS accounts
@@ -349,6 +386,8 @@ Coq: A programming language
 Coral 66: A programming language
 Corretto: AWS distribution of OpenJDK
 CorVision: A programming language
+Cosmos DB: Azure managed NoSQL database
+Cost Management and Billing (Azure): Manage your Azure spending
 coverage: Python library - Code coverage
 COWSEL: A programming language
 Combined Programming Language (CPL): A programming language
@@ -365,7 +404,9 @@ C*: A programming language
 Cuneiform: A programming language
 Curl: A programming language
 Curry: A programming language
+Custom Vision: Azure: Customize vision models
 Cybil: A programming language
+CycleCloud: Azure: create, manage, operate, and optimize HPC clusters
 cycler: Python library - Composable style cycles
 Cyclone: A programming language
 Cython: A programming language
@@ -375,12 +416,25 @@ D3.js: JavaScript library - data visualizations
 Dart: A programming language
 Darwin: A programming language
 DASL (Distributed Application Specification Language): A programming language
+Data Box: Offline data transfer to Azure​
+Data Catalog (Azure): Azure enterprise data asset management
 Data Catalog: GCP service: Metadata management service
 Data Exchange: AWS: use third-party data
+Data Explorer: Azure data exploration service
+Data Factory: Azure hybrid data integration
+Data Lake Analytics: Azure analytics service for big data
+Data Lake Storage: Azure data lake built on Azure Blob Storage
 Data Pipeline: AWS managed data pipeline
+Data Science Virtual Machines: Pre-configured environment for data/ML development on Azure
+Data Share: Azure service for sharing data with external organizations
 Data Studio: GCP service: Collaborative data exploration/dashboarding
+Database for MariaDB: Azure managed MariaDB database
+Database for MySQL: Azure managed MySQL database
+Database for PostgreSQL: Azure managed PostgreSQL database
+Database Migration Service (Azure): Azure database migration from on-premises to the cloud
 Database Migration Service: GCP service: Migrate to Cloud SQL
 Database Migration Service: AWS service to migrate DBs to cloud
+Databricks: Apache Spark-based analytics platform for Azure
 dataclasses: Python library - A backport of the dataclasses module for Python 3.6
 datadog: Python library - Datadog Python library
 DataFlex: A programming language
@@ -394,10 +448,14 @@ dc: A programming language
 DCL: A programming language
 DDoS (Distributed Denial of Service Attack): Deliberate disruption of network services from thousands of coordinated machines
 decorator: Python library - decorators
+Dedicated Host (Azure): Azure: dedicated physical server for VMs / Windows and Linux
+Dedicated HSM (Azure): Azure service for accessing HSMs
 Dedicated Interconnect: GCP service: Dedicated private network connection
 DeepComposer: AWS: Hands-on ML learning
 DeepLens: ML enabled camera (AWS)
 DeepRacer: ML based racing simulator/league (AWS)
+Defender for IoT: Azure service for asset management and threat detection
+Defender: Azure service to protect hybrid cloud workloads
 defusedxml: Python library - XML bomb protection for Python stdlib modules
 Delphi: A programming language
 Detective: AWS service for analyzing security anomalies
@@ -406,15 +464,18 @@ Device Farm: AWS managed iOS/Android device testing
 DevOps Guru: AWS ML powered operations service
 Dialogflow: GCP service: Create conversational interfaces
 DIBOL: A programming language
+Digital Twins (Azure): Azure service for IoT spatial intelligence
 dill: Python library - serialize all of python
 DinkC: A programming language
 Direct Connect: Get a dedicated network connection to AWS datacenters
 Direct Peering: GCP service: Peer with GCP
 Directory Service: AWS managed Microsoft AD
+Disk Storage (Azure): Azure block storage for VMs
 distlib: Python library - Distribution utilities
 distro: Python library - OS platform information API
 django: Python library - Web framework
 djangorestframework: Python library - Web APIs for Django
+DNS (Azure): Azure managed DNS
 DNS (Domain Name System): Decentralized network of services that associate information with domain names
 dnspython: Python library - DNS toolkit
 docker: Python library - client for Docker Engine API
@@ -469,6 +530,7 @@ Emacs Lisp: A programming language
 Ember.js: JavaScript web framework
 Emerald: A programming language
 EMR (Elastic MapReduce): AWS managed 'big data' services
+Encoding (Azure): Azure video encoding service
 enterprise software: Software for larger organizations instead of individuals
 entrypoints: Python library - Discover and load entry points from installed packages.
 enum34: Python library - Python 3.4 Enum backported older Python versions
@@ -489,6 +551,8 @@ Euclid: A programming language
 Euler: A programming language
 Euphoria: A programming language
 EusLisp Robot Programming Language: A programming language
+Event Grid (Azure): Azure event delivery service
+Event Hubs (Azure): Azure service to receive telemetry from millions of devices
 Event Threat Detection: GCP service: Scans for suspicious activity
 Eventarc: GCP service: Event-driven Cloud Run services
 EventBridge: AWS service for ingesting and routing events
@@ -496,12 +560,14 @@ EXEC 2: A programming language
 Executable UML: A programming language
 Explainable AI: GCP service: Understand ML model predictions
 Express.js: JavaScript web application framework for Node.js
+ExpressRoute: Dedicated network connections to Azure
 Ext JS by Sencha: JavaScript web application framework
 Ext JS: JavaScript web application framework
 Ezhil: A programming language
 F# (F sharp): A programming language
 F-Script: A programming language
 F: A programming language
+Face: Azure: Detect, identify, analyze, organize, and tag faces in photos
 Factor: A programming language
 Fantom: A programming language
 Fargate: AWS serverless for compute
@@ -509,7 +575,10 @@ FAUST: A programming language
 FFI (Foreign Function Interface): Mechanism for one programming language to call into another
 FFP: A programming language
 filelock: Python library - A platform independent file lock.
-Firewall Manager: AWS service for managing many firewalls
+Files (Azure): Azure file shares using SMB 3.0 protocol
+Firewall (Azure): Azure firewalls
+Firewall Manager (Azure): Azure centralized network security policy and route management
+Firewall Manager (AWS): AWS service for managing many firewalls
 fish: A programming language
 Fjölnir: A programming language
 FL: A programming language
@@ -524,6 +593,7 @@ FOCAL: A programming language
 FOCUS: A programming language
 FOIL: A programming language
 Forecast: AWS managed service to produce time-series forecasts
+Form Recognizer: Azure: ML-powered document extraction service
 FORMAC: A programming language
 @Formula: A programming language
 Forth: A programming language
@@ -535,15 +605,18 @@ FP: A programming language
 FP (Functional Programming): Programming paradigm focused on applying and composing functions
 Franz Lisp: A programming language
 FreeRTOS: Real-time OS for microcontrollers (AWS)
+Front Door: Azure CDN
 fsspec: Python library - File-system specification
 F*: A programming language
 FSx: Managed high-performance filesystems on AWS (Lustre, Windows File Server, SMB)
 funcsigs: Python library - Python function signatures from PEP362 for Python 2.6, 2.7 and 3.2+
+Functions (Azure): Azure serverless functions
 FusionCharts: JavaScript library - data visualizations
 Futhark: A programming language
 future: Python library - single-source support for Python 3 and 2
 futures: Python library - Backport of the concurrent.futures package from Python 3
 fuzzywuzzy: Python library - Fuzzy string matching
+FXT Edge Filer: Azure hybrid storage for HPC
 G-code: A programming language
 GameLift: AWS managed gaming platform
 Game Maker Language (Scripting language): A programming language
@@ -620,6 +693,8 @@ Harbour: A programming language
 Hartmann pipelines: A programming language
 Haskell: A programming language
 Haxe: A programming language
+HDInsight: Azure: provision cloud Hadoop, Spark, R Server, HBase, and Storm clusters
+Health Bot: Azure: managed service for virtual healthcare assistants
 HealthLake: AWS data management services for medical field
 Hermes: A programming language
 High Level Assembly: A programming language
@@ -632,6 +707,7 @@ Hop: A programming language
 Hope: A programming language
 Hopscotch: A programming language
 hpack: Python library - HPACK header compression
+HPC Cache: Azure file caching for HPC
 HSM (Hardware Security Module): Physical device that performs encryption/decryption and protects private keys
 hstspreload: Python library - Chromium HSTS Preload list as a Python package
 HTML: Markup language for documents meant for a web browser
@@ -656,18 +732,23 @@ idna: Python library - Internationalized Domain Names in Applications (IDNA)
 Idris: A programming language
 ijson: Python library - Iterative JSON parser
 imagesize: Python library - image size from png/jpeg/jpeg2000/gif file
+Immersive Reader: Azure: empower everyone to read and comprehend text
 Inform: A programming language
+Information Protection (Azure): Azure service to protect your sensitive information
 infrastructure-as-code: Practice of creating and managing infrastructure programmatically for repeatability
 Inspector: AWS service that analyzes your security posture
 interface: Defines operations that can be called on a class or library
+Internet Analyzer (Azure): Azure: Test how networking infrastructure changes will impact your customers' performance.
 Io: A programming language
 IoT (Internet of Things): Technologies surrounding large groups of physical, often embedded devices
 IoT 1-Click: AWS service that allows simple devices to trigger Lambda functions
 IoT Analytics: AWS service to analyze IoT data
 IoT Device Defender: AWS service to audit and monitor IoT devices
 IoT Device Management: AWS service to manage IoT devices
+IoT Edge (Azure): Azure service for edge devices
 IoT Events: AWS service to ingest and respond to events from IoT devices
 IoT Greengrass: AWS edge runtime and service for IoT
+IoT Hub (Azure): Azure service to connect, monitor, and manage IoT assets
 IoT SiteWise: AWS service for monitoring industrial equipment
 IoT Things Graph: AWS service for wiring together IoT devices and services
 ipaddress: Python library - IPv4/IPv6 manipulation library
@@ -732,10 +813,12 @@ KEE: A programming language
 Kendra: AWS ML powered search
 keras-preprocessing: Python library - data preprocessing and data augmentation for deep learning models
 keras: Python library - Deep Learning
+Key Vault (Azure): Azure service for encryption/decryption that protects private keys
 keyring: Python library - Store and access your passwords safely
 Keyspaces: AWS Managed Cassandra
 KF: GCP service: Cloud Foundry to Kubernetes
 KIF: A programming language
+Kinect DK: Azure: build computer vision and speech models
 Kinesis Data Firehose: AWS service for streaming data directly into storage/DBs
 Kinesis: AWS service for streaming data
 kiwisolver: Python library - A fast implementation of the Cassowary constraint solver
@@ -753,6 +836,7 @@ KRL: A programming language
 KRYPTON: A programming language
 KornShell (ksh): A programming language
 Kubernetes Engine (GKE): GCP service: Managed Kubernetes/containers
+Kubernetes Service (AKS): Azure service: Managed Kubernetes/containers
 Kubernetes: Container orchestration system
 Kv: A programming language
 LabVIEW: A programming language
@@ -760,6 +844,7 @@ Ladder: A programming language
 Lake Formation: AWS service to manage data lakes
 Lambda: AWS serverless functions
 Language H: A programming language
+Language Understanding: Azure: Teach your apps to understand commands from your users
 LANSA: A programming language
 Lasso: A programming language
 Lava: A programming language
@@ -770,6 +855,7 @@ Legoscript: A programming language
 Lex: AWS service for AI powered chatbots
 License Manager (AWS): Manage software licenses on AWS
 lightgbm: Python library - LightGBM
+Lighthouse: Azure service to manage customer acccess
 Lightsail: AWS service that abstracts detail to provide a VPS-like experience
 LIL: A programming language
 LilyPond: A programming language
@@ -778,19 +864,25 @@ Limnor: A programming language
 LINC: A programming language
 Lingo: A programming language
 LINQ: A programming language
+Linux Virtual Machines: Azure service for launching and managing Linux servers
 LIS: A programming language
 LISA: A programming language
 Lisp – ISO/IEC 13816: A programming language
 Lite-C: A programming language
 Lithe: A programming language
 Little b: A programming language
+Live and On-Demand Streaming (Azure): Azure video streaming service
+Live Video Analytics (Azure): Azure video analytics service
 LiveCode: A programming language
 Lively Kernel: JavaScript web programming environment
 LiveScript: A programming language
 LLL: A programming language
+Load Balancing (Azure): Azure load balancing
 Local SSD: GCP service: VM locally attached SSDs
 Local Zones (AWS): AWS infrastructure optimized for low-latency to certain cities
 lockfile: Python library - Platform-independent file locking module
+Log Analytics: Azure: collect, search, and visualize machine data from on-premises and cloud
+Logic Apps: Azure: no-code workflows / iPaaS
 Logo: A programming language
 Logtalk: A programming language
 Looker: GCP service: Enterprise BI and Analytics
@@ -812,6 +904,7 @@ M#: A programming language
 M2001: A programming language
 M4: A programming language
 Machine code: A programming language
+Machine Learning: Azure ML experimentation and model management
 Macie: AWS security service for protecting sensitive data
 MAD (Michigan Algorithm Decoder): A programming language
 MAD/I: A programming language
@@ -820,10 +913,12 @@ Magma: A programming language
 mako: Python library - templating language
 Managed Apache Airflow (MWAA) (AWS): AWS managed Apache Airflow service
 Managed Blockchain: AWS service for creating and managing blockchains
+Managed Instance for Apache Cassandra: Azure managed Apache Cassandra
 Managed Service for Microsoft Active Directory: GCP service: Managed Microsoft Active Directory
 Máni: A programming language
 Maple: A programming language
 MAPPER (now part of BIS): A programming language
+Maps (Azure): Azure location APIs that provide geospatial context
 MARK-IV (now VISION:BUILDER): A programming language
 markdown: Python library - Python implementation of Markdown
 markupsafe: Python library - add untrusted strings to HTML/XML markup
@@ -841,14 +936,20 @@ MaxScript internal language 3D Studio Max: A programming language
 Maya (MEL): A programming language
 mccabe: Python library - McCabe checker, plugin for flake8
 MDL: A programming language
+Media Services (Azure): Azure service to encode, store, and stream video
 Mercury: A programming language
 Mesa: A programming language
 Meteor: JavaScript web framework in Node.js
+Metrics Advisor: Azure ML service that monitors metrics and diagnoses issues
 MHEG-5 (Interactive TV programming language): A programming language
 Microcode: A programming language
 MicroScript: A programming language
 Microsoft's Ajax library: ASP.NET extensions for Ajax
+Microsoft Azure Attestation: remotely verify a platform and integrity of its binaries
+Microsoft Azure portal: Unified console to manage Azure
+Microsoft Genomics: Azure: genome sequencing & research insights
 midori: JavaScript library for web development easier
+Migrate (Azure): migrate your on-premises VMs to Azure
 Migrate for Anthos: GCP service: Migrate VMs to containers
 Migrate for Compute Engine: GCP service: Compute Engine migration tools
 Migrate from Amazon Redshift: GCP service: Migrate from Redshift to BigQuery
@@ -862,6 +963,7 @@ mistune: Python library - markdown parser in pure Python
 MIVA Script: A programming language
 ML: A programming language
 mlflow: Python library - Platform for ML Development
+Mobile Apps (Azure): Azure: hosted backend for mobile apps
 Mocha: JavaScript testing framework
 MochiKit: JavaScript library for deferred/asynchronous behaviors
 mock: Python library - Rolling backport of unittest.mock for all Pythons
@@ -870,8 +972,10 @@ Modelica: A programming language
 Modula-2: A programming language
 Modula-3: A programming language
 Modula: A programming language
+Modular Datacenter: Azure rugged datacenter solution
 Mohol: A programming language
 Mojito: JavaScript MVC web application framework
+Monitor (Azure): Azure monitoring and tracing
 Monitron: AWS service for detecting anomalies in industrial machinery
 MOO: A programming language
 MooTools: JavaScript library - (My Object-Oriented Tools) object-oriented JavaScript framework
@@ -907,11 +1011,13 @@ NESL: A programming language
 nest-asyncio: Python library - Patch asyncio to allow nested event loops
 Net.Data: A programming language
 netaddr: Python library - network address manipulation library
+NetApp Files: Azure file shares powered by NetApp
 NetLogo: A programming language
 NetRexx: A programming language
 Network Intelligence Center: GCP service: Network monitoring and topology
 Network Service Tiers: GCP service: Price vs performance tiering
 Network Telemetry: GCP service: Network telemetry service
+Network Watcher: Azure network performance monitoring and diagnostics
 networkx: Python library - package for creating and manipulating graphs and networks
 NewLISP: A programming language
 NEWP: A programming language
@@ -926,6 +1032,7 @@ Nix (Systems configuration language): A programming language
 nltk: Python library - Natural Language Toolkit
 Node.js: Back-end JavaScript runtime environment running on the V8 engine
 notebook: Python library - A web-based notebook environment for interactive computing
+Notification Hubs: Azure service for push notifications
 NPL: A programming language
 Not Quite C (NQC): A programming language
 NSIS: A programming language
@@ -940,6 +1047,7 @@ oauth2client: Python library - OAuth 2.0 client library
 oauthlib: Python library - OAuth request-signing logic
 Oberon: A programming language
 OBJ2: A programming language
+Object Anchors: Azure service to align and anchor 3D content to objects in the physical world
 Object Lisp: A programming language
 Object Pascal: A programming language
 Object REXX: A programming language
@@ -954,6 +1062,7 @@ Octave: A programming language
 OmniMark: A programming language
 Opa: A programming language
 Opal: A programming language
+Open Datasets: Host and share datasets to accelerate ML model development on Azure
 OpenCL: A programming language
 opencv-python: Python library - Wrapper package for OpenCV python bindings.
 OpenEdge ABL: A programming language
@@ -967,6 +1076,7 @@ OPS5: A programming language
 OpsWorks: AWS managed Chef and Puppet
 opt-einsum: Python library - Optimizing numpys einsum function
 OptimJ: A programming language
+Orbital: Azure service for satellite ground station and scheduling
 Orc: A programming language
 ORCA/Modula-2: A programming language
 ordereddict: Python library - A drop-in substitute for Py2.7's new collections.OrderedDict that works in Python 2.4-2.6.
@@ -1001,10 +1111,12 @@ PDF.js: JavaScript library to render PDF files to HTML5 Canvas
 PDL: A programming language
 PEARL: A programming language
 PeopleCode: A programming language
+Percept: Azure: edge ML including hardware accelerators
 Perl: A programming language
 Persistent Disk: GCP service: Block storage for VMs
 Personal Health Dashboard: AWS personalized reporting on AWS issues
 Personalize: AWS service for creating recommender services
+Personalizer: Azure: ML service that delivers a personalized user experience
 pexpect: Python library - control interactive console applications
 Pharo: A programming language
 PHP: A programming language
@@ -1017,6 +1129,7 @@ pillow: Python library - Python Imaging Library (Fork)
 PILOT: A programming language
 Pinpoint: AWS service to manage marketing communications
 pip: Python library - manage Python packages.
+Pipelines (Azure): Azure continuously build, test, and deployment
 Pipelines: A programming language
 pipenv: Python library - Development Workflow
 Pizza: A programming language
@@ -1040,6 +1153,7 @@ PL/SQL: A programming language
 pluggy: Python library - plugin and hook calling mechanisms for python
 Plus: A programming language
 ply: Python library - Lex & Yacc
+Policy (Azure): Implement corporate governance and standards on Azure
 Polly: AWS text-to-speech service
 POP-11: A programming language
 POP-2: A programming language
@@ -1047,17 +1161,20 @@ PortablE: A programming language
 portalocker: Python library - Wraps the portalocker recipe for easy usage
 PostScript: A programming language
 POV-Ray SDL: A programming language
+Power BI Embedded: Azure: embed data visualizations in your applications
 PowerBuilder – 4GL GUI generator: A programming language
 Powerhouse: A programming language
 PowerShell: A programming language
 PPL: A programming language
 Preemptible VMs: GCP service: Short-lived compute instances
 Private Catalog: GCP service: Internal Solutions Catalog
+Private Link (Azure): Azure: Private access to services hosted on the Azure platform
 Pro*C: A programming language
 Processing.js: JavaScript port of the Processing programming language
 Processing: A programming language
 Prograph: A programming language
 PROIV: A programming language
+Project Bonsai: Azure: machine teaching service for creating intelligent industrial control systems using simulations
 Project Verona: A programming language
 Prolog: A programming language
 PROMAL: A programming language
@@ -1082,6 +1199,7 @@ Pure Data: A programming language
 Pure: A programming language
 PureMVC: JavaScript MVC web framework
 PureScript: A programming language
+Purview: Azure: unified data governance
 py: Python library - library with cross-python path, ini-parsing, io, code, log facilities
 py4j: Python library - Enables Python programs to dynamically access arbitrary Java objects
 pyarrow: Python library - for Apache Arrow
@@ -1120,6 +1238,7 @@ Q (Kx Systems): A programming language
 Qalb: A programming language
 Quantum Computation Language: A programming language
 QLDB: AWS managed ledger database
+QnA Maker: Azure: distill information into conversational, easy-to-navigate answers
 qooxdoo: JavaScript Ajax web application framework
 QPL: A programming language
 Q#: A programming language
@@ -1127,9 +1246,12 @@ qtconsole: Python library - Jupyter Qt console
 qtpy: Python library - abstraction layer on top of the various Qt bindings
 QtScript: A programming language
 QuakeC: A programming language
+Quantum (Azure): Azure quantum computing
 querystring-parser: Python library - QueryString parser for Python/Django
+Queue Storage (Azure): Azure message queue service
 QuickSight: AWS analytics / business-intelligence service
 QUnit: JavaScript testing framework
+R Server for HDInsight: Azure: predictive analytics, machine learning, and statistical modeling
 R: A programming language
 Racket: A programming language
 Raku: A programming language
@@ -1145,6 +1267,7 @@ React: a JavaScript UI framework
 Reason: A programming language
 REBOL: A programming language
 Recommendations AI: GCP service: Create custom recommendations
+Red Hat OpenShift: Azure managed OpenShift service
 Red: A programming language
 Redcode: A programming language
 redis: Python library - client for Redis key-value store
@@ -1153,9 +1276,13 @@ REFAL: A programming language
 regex: Python library - Alternative regular expression module, to replace re.
 Region: Term used across cloud computing providers usually referring to a group of AZs in the same general vicinity
 Rekognition: AWS service that identifies things in images and videos
+Remote Rendering (Azure): Render 3D content on Azure and stream it to your devices
+Repos (Azure): Azure managed git repositories
 requests-oauthlib: Python library - OAuthlib authentication support for Requests
 requests-toolbelt: Python library - A utility belt for advanced users of python-requests
 requests: Python library - HTTP client
+Resource Manager (Azure): manage your application resources on Azure
+Resource Mover: Move resources between Azure regions
 Resource Access Manager: AWS service for sharing resources
 retrying: Python library - Retrying
 REXX: A programming language
@@ -1166,6 +1293,7 @@ Rlab: A programming language
 RoboMaker: AWS service simulating and deploying robotic applications
 ROOP: A programming language
 Route 53: AWS DNS service
+Route Server: Enables network appliances to exchange routes dynamically with virtual networks in Azure
 RPG: A programming language
 RPL: A programming language
 R++: A programming language
@@ -1173,6 +1301,7 @@ rsa: Python library - Pure-Python RSA implementation
 RSL: A programming language
 Rspec: a Ruby testing framework
 RTL/2: A programming language
+RTOS (Azure): Azure embedded IoT development suite
 ruamel-yaml-clib: Python library - C version of reader, parser and emitter for ruamel.yaml derived from libyaml
 ruamel-yaml: Python library - YAML parser/emitter
 Ruby: A programming language
@@ -1210,6 +1339,7 @@ SDK (Software Development Kit): Bundle of tools and libraries for developing app
 Secret Manager: GCP service: Store and manage secrets
 Secrets Manager: AWS service for storing and rotating secrets
 secretstorage: Python library - bindings to FreeDesktop.org Secret Service API
+Security Center (Azure): Azure unified security management
 Security Command Center: GCP service: Security management and data risk platform
 Security Hub: AWS service for centralized view of security
 Security Key Enforcement: GCP service: Two-step key verification
@@ -1218,12 +1348,16 @@ Seed7: A programming language
 Self: A programming language
 send2trash: Python library - Send file to trash natively under Mac OS X, Windows and Linux
 SenseTalk: A programming language
+Sentinel (Azure): Azure SIEM and intelligent security analytics
 SequenceL: A programming language
 Serpent: A programming language
 Server Migration Service: AWS services for migrating applications to the cloud
 Serverless Application Repository: AWS managed repository for serverless apps
+Service Bus (Azure): Azure service to connect across private and public cloud environments
 Service Catalog (AWS): AWS managed service catalogs
 Service Catalog: Organized collection of services usable in an enterprise
+Service Fabric (Azure): Azure: microservices and container orchestration for Windows or Linux
+Service Health (Azure): Azure personalized reporting on Azure issues
 SES (Simple Email Service): AWS service for sending emails
 SETL: A programming language
 setuptools-scm: Python library - the blessed package to manage your versions by scm tags
@@ -1242,6 +1376,7 @@ Simulink: A programming language
 Single Sign-On: AWS managed SSO
 Singularity: A programming language
 SISAL: A programming language
+Site Recovery (Azure): Azure disaster recovery service
 six: Python library - Python 2 and 3 compatibility
 slackclient: Python library - Slack API clients
 SLIP: A programming language
@@ -1269,14 +1404,24 @@ Source: A programming language
 SP/k: A programming language
 SPA (Single Page Applications): Web application that dynamically rewrites the current page vs. navigating to a new one
 SPARK: A programming language
+Spatial Anchors: Azure service for spatially aware mixed reality experiences
 Speakeasy: A programming language
+Speaker Recognition (Azure): Azure: speech service feature that verifies and identifies speakers
+Speech to Text (Azure): Azure: speech service feature that accurately converts spoken audio to text
+Speech Translation (Azure): Azure: integrate real-time speech translation to your app
 Speedcode: A programming language
+Sphere: Azure service for managing MCU-powered devices (IoT)
 sphinx: Python library - documentation generator
 SPIN: A programming language
+Spring Cloud: Azure managed Spring Cloud service
 SproutCore: JavaScript web framework
 Spry framework: JavaScript ajax framework geared towards designers
 SPS: A programming language
-SQL: A programming language
+SQL (Azure): Azure managed SQL instances
+SQL Database (Azure): Azure: managed SQL (serverless)
+SQL Edge: Azure: edge-optimized Microsoft SQL engine
+SQL Server on Virtual Machines: Azure managed SQL Server apps
+SQL: A domain-specific programming language designed for managing data in an RDBMS
 sqlalchemy: Python library - Database Abstraction Library
 sqlparse: Python library - A non-validating SQL parser
 SQR: A programming language
@@ -1285,14 +1430,18 @@ Squeak: A programming language
 Squirrel: A programming language
 SR: A programming language
 SSO (Single Sign On): Authentication scheme that allows a user to log in once and get access to multiple, independent systems
+Stack (Azure): Azure: build and run hybrid applications
+Stack Edge: Azure managed device that brings Azure services to the edge
 Starlogo: A programming language
 Stata: A programming language
 Stateflow: A programming language
+Static Web Apps: Azure managed static web applications
 statsmodels: Python library - Statistical computations and models
 Step Functions: AWS service for background/asynchronous jobs (workflow)
 Storage Gateway: AWS service to connect on-premises applications to cloud storage
 Storage Transfer Service: GCP service: Online/on-premises data transfer
 Strand: A programming language
+Stream Analytics: Azure real-time analytics service
 Strongtalk: A programming language
 STS (Security Token Service): AWS service for requesting temporary credentials
 Subtext: A programming language
@@ -1305,10 +1454,12 @@ SWFObject: JavaScript library - used to embed Adobe Flash content
 Swift (Apple programming language): A programming language
 Swift (parallel scripting language): A programming language
 SYMPL: A programming language
+Synapse Analytics: Azure analytics service
 Systems Manager: AWS services for infrastructure visibility and control
 SystemVerilog: A programming language
 T-SQL: A programming language
 T: A programming language
+Table Storage (Azure): Azure managed NoSQL database
 tabulate: Python library - Pretty-print tabular data
 TACL: A programming language
 TACPOL: A programming language
@@ -1324,14 +1475,18 @@ tensorboard: Python library - TensorBoard lets you watch Tensors Flow
 tensorflow: Python library - machine learning framework
 termcolor: Python library - ANSII Color formatting for output in terminal
 terminado: Python library - Tornado websocket backend for Xterm.js
+Test Plans: Azure manual and exploratory testing toolkit
 testpath: Python library - Test utilities for code working with files and commands
 TeX: A programming language
 TEX: A programming language
+Text Analytics: Azure: evaluate sentiment and topics
+Text to Speech: Azure text-to-speech service
 Textract: AWS service for extracting text from images/documents
 tfx-bsl: Python library - tfx_bsl (TFX Basic Shared Libraries) contains libraries shared by many TFX (TensorFlow eXtended) libraries and components.
 Three.js: JavaScript library - 3D graphics in browsers using WebGL
 thrift: Python library - bindings for the Apache Thrift RPC system
 TIE: A programming language
+Time Series Insights: Azure service to analyze time-series data from IoT devices
 Timestream: AWS managed time series database
 Titan Security Key: GCP service: Two-factor authentication (2FA) device
 TMG, compiler-compiler: A programming language
@@ -1346,12 +1501,14 @@ TPU: A programming language
 tqdm: Python library - Progress Meter
 Trac: A programming language
 Traffic Director: GCP service: Service mesh traffic management
+Traffic Manager: Azure load balancing and traffic management
 traitlets: Python library - configuration system
 Transcoding: Conversion of one file/encoding format to another (usually r.e. audio/video media)
 Transcribe Medical: AWS speech-to-text service tailored to medical field
 Transcribe: AWS speech-to-text service
 Transcript: A programming language
 Translate: AWS service for translating text to and from spoken languages
+Translator: Azure machine translation service
 Transparent SLIs: GCP service: Monitor GCP services
 TTCN: A programming language
 TTM: A programming language
@@ -1386,8 +1543,12 @@ Velocity.js: JavaScript library for website animation
 Verge3D: JavaScript library - real-time 3D renderer for website animation
 Verilog: A programming language
 VHDL: A programming language
+Video Indexer: Azure service for video insights
 Vim script: A programming language
 Viper: A programming language
+Virtual Machine Scale Sets: Azure managed Linux and Windows virtual machines / scaling
+Virtual Machines (Azure): Azure service to provision Windows and Linux virtual machines
+Virtual Network (Azure): Azure private network management
 Virtual Private Cloud: GCP service: Software defined networking
 virtualenv-clone: Python library - script to clone virtualenvs
 virtualenv: Python library - Virtual Python Environment builder
@@ -1399,9 +1560,13 @@ Visual J++: A programming language
 Visual LISP: A programming language
 Visual Objects: A programming language
 Visual Prolog: A programming language
+Visual Studio App Center: Continuous build, test, release, and monitoring
+VM Image Builder: Azure service for building VM images
 VM Migration: GCP service: VM migration tools
 VMware Engine: GCP service: VMware as a service
+VMware Solution: run VMware workloads on Azure
 VPC Service Controls: GCP service: VPC data constraints
+VPN Gateway (Azure): Azure managed VPNs
 VPS (Virtual Private Server): Personal VM in the cloud, usually a simplified experience
 Vue.js: JavaScript UI framework
 WAF (Web Application Firewall): Firewall that can inspect web/L7 traffic
@@ -1410,6 +1575,9 @@ Wakanda Framework: JavaScript platform for web and mobile apps
 WATFIV, WATFOR: A programming language
 Wavelength (AWS): AWS infrastructure optimized for mobile/5G
 wcwidth: Python library - Measures the displayed width of unicode strings in a terminal
+Web App for Containers: Azure: deploy and run containerized web apps
+Web Application Firewall (Azure): Azure web application firewall (WAF)
+Web Apps (Azure): Azure: create and deploy web applications
 WebAssembly: A programming language
 WebDNA: A programming language
 webencodings: Python library - Character encoding aliases for legacy web content
@@ -1421,6 +1589,7 @@ wheel: Python library - A built-package format
 Whiley: A programming language
 widgetsnbextension: Python library - IPython HTML widgets for Jupyter
 Winbatch: A programming language
+Windows Virtual Desktop: Azure managed Windows desktops
 WinJS: JavaScript framework for Windows Store apps
 Wolfram Language: A programming language
 WorkDocs: AWS service for document collaboration (e.g. Word documents)
@@ -1433,6 +1602,7 @@ X++: A programming language
 X-Ray: AWS service for tracing distributed application calls
 X.509 certificate: Popular type of certificate, used to secure HTTPS/SSL/TLS
 X10: A programming language
+Xamarin: Azure mobile app platform
 xBase: A programming language
 xBase++: A programming language
 XBL: A programming language
