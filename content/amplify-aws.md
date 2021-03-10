@@ -5,6 +5,8 @@ date = 2021-03-07
 slug = "amplify-aws"
 [extra]
 link = "https://aws.amazon.com/amplify/"
+[taxonomies]
+groups = ["aws"]
 +++
 AWS tools and services for web and mobile apps
 

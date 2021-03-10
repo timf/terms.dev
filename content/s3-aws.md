@@ -5,6 +5,8 @@ date = 2021-03-07
 slug = "s3-aws"
 [extra]
 link = "https://aws.amazon.com/s3"
+[taxonomies]
+groups = ["aws"]
 +++
 AWS object storage as a service
 

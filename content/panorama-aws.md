@@ -5,6 +5,8 @@ date = 2021-03-07
 slug = "panorama-aws"
 [extra]
 link = "https://aws.amazon.com/panorama/"
+[taxonomies]
+groups = ["aws"]
 +++
 AWS edge-computing device and SDK for vision based predictions
 
