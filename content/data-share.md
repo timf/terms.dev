@@ -5,7 +5,7 @@ date = 2021-03-10
 [extra]
 link = "https://azure.microsoft.com/en-us/services/data-share/"
 [taxonomies]
-groups = ["azure"]
+groups = ["msazure"]
 +++
 Azure service for sharing data with external organizations
 

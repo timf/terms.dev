@@ -6,7 +6,7 @@ slug = "content-protection-azure"
 [extra]
 link = "https://azure.microsoft.com/en-us/services/media-services/content-protection/"
 [taxonomies]
-groups = ["azure"]
+groups = ["msazure"]
 +++
 Deliver content using AES, PlayReady, Widevine, and Fairplay via Azure
 

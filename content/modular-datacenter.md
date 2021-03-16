@@ -5,7 +5,7 @@ date = 2021-03-10
 [extra]
 link = "https://azure.microsoft.com/en-us/products/azure-modular-datacenter/"
 [taxonomies]
-groups = ["azure"]
+groups = ["msazure"]
 +++
 Azure rugged datacenter solution
 

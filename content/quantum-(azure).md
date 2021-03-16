@@ -5,7 +5,7 @@ date = 2021-03-10
 [extra]
 link = "https://azure.microsoft.com/zh-cn/services/quantum/"
 [taxonomies]
-groups = ["azure"]
+groups = ["msazure"]
 +++
 Azure quantum computing
 

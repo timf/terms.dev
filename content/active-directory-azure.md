@@ -6,7 +6,7 @@ slug = "active-directory-azure"
 [extra]
 link = "https://azure.microsoft.com/en-us/services/active-directory/"
 [taxonomies]
-groups = ["azure"]
+groups = ["msazure"]
 +++
 Azure service to synchronize on-premises directories to enable SS0
 

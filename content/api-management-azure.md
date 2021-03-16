@@ -6,7 +6,7 @@ slug = "api-management-azure"
 [extra]
 link = "https://azure.microsoft.com/en-us/services/api-management/"
 [taxonomies]
-groups = ["azure"]
+groups = ["msazure"]
 +++
 Azure: publish and manage APIs
 

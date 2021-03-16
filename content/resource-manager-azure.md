@@ -6,7 +6,7 @@ slug = "resource-manager-azure"
 [extra]
 link = "https://azure.microsoft.com/en-us/features/resource-manager/"
 [taxonomies]
-groups = ["azure"]
+groups = ["msazure"]
 +++
 manage your application resources on Azure
 

@@ -5,7 +5,7 @@ date = 2021-03-10
 [extra]
 link = "https://azure.microsoft.com/en-us/services/app-service/api/"
 [taxonomies]
-groups = ["azure"]
+groups = ["msazure"]
 +++
 Azure: build and consume Cloud APIs
 

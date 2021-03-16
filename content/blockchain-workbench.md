@@ -5,7 +5,7 @@ date = 2021-03-10
 [extra]
 link = "https://azure.microsoft.com/en-us/features/blockchain-workbench/"
 [taxonomies]
-groups = ["azure"]
+groups = ["msazure"]
 +++
 Azure: prototype blockchain apps
 

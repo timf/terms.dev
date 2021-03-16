@@ -6,7 +6,7 @@ slug = "information-protection-azure"
 [extra]
 link = "https://azure.microsoft.com/en-us/services/information-protection/"
 [taxonomies]
-groups = ["azure"]
+groups = ["msazure"]
 +++
 Azure service to protect your sensitive information
 

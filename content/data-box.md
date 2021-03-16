@@ -5,7 +5,7 @@ date = 2021-03-10
 [extra]
 link = "https://azure.microsoft.com/en-us/services/databox/"
 [taxonomies]
-groups = ["azure"]
+groups = ["msazure"]
 +++
 Offline data transfer to Azure​
 

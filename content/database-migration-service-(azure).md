@@ -5,7 +5,7 @@ date = 2021-03-10
 [extra]
 link = "https://azure.microsoft.com/en-us/services/database-migration/"
 [taxonomies]
-groups = ["azure"]
+groups = ["msazure"]
 +++
 Azure database migration from on-premises to the cloud
 

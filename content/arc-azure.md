@@ -6,7 +6,7 @@ slug = "arc-azure"
 [extra]
 link = "https://azure.microsoft.com/en-us/services/azure-arc/"
 [taxonomies]
-groups = ["azure"]
+groups = ["msazure"]
 +++
 Extend Azure management and services outside of Azure
 

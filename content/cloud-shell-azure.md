@@ -6,7 +6,7 @@ slug = "cloud-shell-azure"
 [extra]
 link = "https://azure.microsoft.com/en-us/features/cloud-shell/"
 [taxonomies]
-groups = ["azure"]
+groups = ["msazure"]
 +++
 Browser-based shell for Azure
 

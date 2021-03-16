@@ -6,7 +6,7 @@ slug = "web-application-firewall-azure"
 [extra]
 link = "https://azure.microsoft.com/en-us/services/web-application-firewall/"
 [taxonomies]
-groups = ["azure"]
+groups = ["msazure"]
 +++
 Azure web application firewall (WAF)
 

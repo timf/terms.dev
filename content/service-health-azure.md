@@ -6,7 +6,7 @@ slug = "service-health-azure"
 [extra]
 link = "https://azure.microsoft.com/en-us/features/service-health/"
 [taxonomies]
-groups = ["azure"]
+groups = ["msazure"]
 +++
 Azure personalized reporting on Azure issues
 

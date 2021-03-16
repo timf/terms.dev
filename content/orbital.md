@@ -5,7 +5,7 @@ date = 2021-03-10
 [extra]
 link = "https://azure.microsoft.com/en-us/services/orbital/"
 [taxonomies]
-groups = ["azure"]
+groups = ["msazure"]
 +++
 Azure service for satellite ground station and scheduling
 

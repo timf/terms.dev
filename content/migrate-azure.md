@@ -6,7 +6,7 @@ slug = "migrate-azure"
 [extra]
 link = "https://azure.microsoft.com/en-us/services/azure-migrate/"
 [taxonomies]
-groups = ["azure"]
+groups = ["msazure"]
 +++
 migrate your on-premises VMs to Azure
 

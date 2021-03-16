@@ -5,7 +5,7 @@ date = 2021-03-10
 [extra]
 link = "https://azure.microsoft.com/en-us/services/storage/archive/"
 [taxonomies]
-groups = ["azure"]
+groups = ["msazure"]
 +++
 Azure long-term object storage service
 

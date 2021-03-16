@@ -5,7 +5,7 @@ date = 2021-03-10
 [extra]
 link = "https://azure.microsoft.com/en-us/services/resource-mover/"
 [taxonomies]
-groups = ["azure"]
+groups = ["msazure"]
 +++
 Move resources between Azure regions
 

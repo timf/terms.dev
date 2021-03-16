@@ -6,7 +6,7 @@ slug = "backup-azure"
 [extra]
 link = "https://azure.microsoft.com/en-us/services/backup/"
 [taxonomies]
-groups = ["azure"]
+groups = ["msazure"]
 +++
 Azure managed backup service
 

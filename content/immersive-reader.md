@@ -5,7 +5,7 @@ date = 2021-03-10
 [extra]
 link = "https://azure.microsoft.com/en-us/services/cognitive-services/immersive-reader/"
 [taxonomies]
-groups = ["azure"]
+groups = ["msazure"]
 +++
 Azure: empower everyone to read and comprehend text
 

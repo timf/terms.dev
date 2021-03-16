@@ -6,7 +6,7 @@ slug = "encoding-azure"
 [extra]
 link = "https://azure.microsoft.com/en-us/services/media-services/encoding/"
 [taxonomies]
-groups = ["azure"]
+groups = ["msazure"]
 +++
 Azure video encoding service
 

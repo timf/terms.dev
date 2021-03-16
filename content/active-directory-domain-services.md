@@ -5,7 +5,7 @@ date = 2021-03-10
 [extra]
 link = "https://azure.microsoft.com/en-us/services/active-directory-ds/"
 [taxonomies]
-groups = ["azure"]
+groups = ["msazure"]
 +++
 Join Azure VMs to a domain without domain controllers
 

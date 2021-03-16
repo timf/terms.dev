@@ -6,7 +6,7 @@ slug = "dns-azure"
 [extra]
 link = "https://azure.microsoft.com/en-us/services/dns/"
 [taxonomies]
-groups = ["azure"]
+groups = ["msazure"]
 +++
 Azure managed DNS
 

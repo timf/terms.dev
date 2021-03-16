@@ -5,7 +5,7 @@ date = 2021-03-10
 [extra]
 link = "https://azure.microsoft.com/en-us/services/logic-apps/"
 [taxonomies]
-groups = ["azure"]
+groups = ["msazure"]
 +++
 Azure: no-code workflows / iPaaS
 
