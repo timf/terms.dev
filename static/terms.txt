@@ -1408,7 +1408,7 @@ Security Key Enforcement: GCP service: Two-step key verification
 Sed: A programming language
 Seed7: A programming language
 Self: A programming language
-semigroup: Type class / object with one associative operator (often named 'append', 'combine', or 'concat'
+semigroup: Type class / object with one associative operator (often named 'append', 'combine', or 'concat')
 send2trash: Python library - Send file to trash natively under Mac OS X, Windows and Linux
 SenseTalk: A programming language
 Sentinel (Azure): Azure SIEM and intelligent security analytics
