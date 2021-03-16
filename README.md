@@ -9,6 +9,8 @@ Accepting PRs for new terms or changes to existing definitions.
 Don't have time for a PR? Just tweet or DM me on Twitter 
 ([@peakscale](https://twitter.com/peakscale)). No problem.
 
+You can also anonymously submit suggestions using [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfieuAJJIg0uTc3GgowKBH74m6X2G7UiklBH0DfXjapsvY67w/viewform).
+
 Happy to take any suggestions. They should be programming terms or things that software
 developers use to build their products (libraries, databases, cloud services, dev tools,
 etc.). Descriptions should be boring and short; remove adjectives like "best", "fast",
