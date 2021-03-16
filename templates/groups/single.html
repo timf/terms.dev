@@ -14,8 +14,9 @@
 {% block content %}
 <h2>Group: 
 {% if term.name == "aws" %} Amazon Web Services
-{% elif term.name == "azure" %} Microsoft Azure
+{% elif term.name == "fp" %} Functional programming
 {% elif term.name == "gcp" %} Google Cloud Platform
+{% elif term.name == "azure" %} Microsoft Azure
 {% else %} {{ term.name }}{% endif %}
 </h2>
 {% if paginator %}

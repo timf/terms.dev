@@ -15,8 +15,9 @@ Groups
             <li>
                 <a href="{{term.permalink}}">
                     {% if term.name == "aws" %} Amazon Web Services
-                    {% elif term.name == "azure" %} Microsoft Azure
+                    {% elif term.name == "fp" %} Functional programming
                     {% elif term.name == "gcp" %} Google Cloud Platform
+                    {% elif term.name == "azure" %} Microsoft Azure
                     {% else %} {{ term.name }}{% endif %}
                 </a>
             </li>

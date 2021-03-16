@@ -9,6 +9,7 @@ ACC: A programming language
 Accent (Rational Synergy): A programming language
 Access Transparency: GCP service: Audit cloud provider access
 account: Unique customer record with associated data and authentication credentials. In many enterprise systems, a customer account is different from the one-to-many users within it.
+accumulate: See Fold
 ACL (Access Control List): Defines what an entity may or may not do (permissions list)
 ACM PCA (Private Certificate Authority): AWS managed private CA
 ACM (Association for Computing Machinery): Organization with mission to advance computing as a science and a profession
@@ -23,6 +24,7 @@ Ada: A programming language
 Adenine (Haystack): A programming language
 AdvPL: A programming language
 Agda: A programming language
+aggregate: See Fold
 Agilent VEE: A programming language
 Agora: A programming language
 AI Platform Data Labeling: GCP service: Data labeling by humans
@@ -65,6 +67,7 @@ AngelScript: A programming language
 Angular: TypeScript-based web application framework
 AngularJS: JavaScript-based web framework
 Anomaly Detector (Azure): Azure: add anomaly detection to your apps
+anonymous function: Another name for a Lambda (λ)
 ansible: Python library - IT automation
 Anthos Clusters: GCP service: Hybrid/on-prem Kubernetes Engine
 Anthos Config Management: GCP service: Policy and security automation
@@ -106,6 +109,7 @@ argcomplete: Python library - Bash tab completion for argparse
 argon2-cffi: Python library - Argon2 password hashing algorithm
 argparse: Python library - command-line parsing library
 Argus: A programming language
+arity: Number of arguments taken by function/operation
 ARN (Amazon Resource Name): Canonical IDs of AWS resources
 arrow: Python library - dates & times
 Artifact Registry: GCP service: Universal package manager
@@ -113,6 +117,8 @@ artifact: A produced 'thing' (files, diagrams, documents)
 Artifacts (Azure): Azure managed repositories for software packages
 Assembly language (ASM): A programming language
 asn1crypto: Python library - cryptography, ASN.1 parser and serializer
+associative array: Collection of key/value pairs where a key may appear no more than once
+associativity: Property where combination order is not relevant e.g. (a + b) + c is equal to a + (b + c)
 Assured Workloads: GCP service: Workload compliance controls
 astroid: Python library - An abstract syntax tree
 asymmetric encryption: Encryption that uses a public key to verify something was signed by a separate private key
@@ -126,6 +132,7 @@ attrs: Python library - Classes Without Boilerplate
 Audit Manager: AWS service for continuous compliance auditing
 Aurora: AWS service that offers MySQL and PostgreSQL compatible DBs
 authentication: Act of proving an identity to a computer system
+auto currying: Conversion of a function into a function that can take fewer arguments than needed and return a function that will accept the rest (see Currying)
 AutoIt: A programming language
 AutoLISP / Visual LISP: A programming language
 Automanage (Azure): Automated operations for VMs on Azure
@@ -207,6 +214,8 @@ Cappuccino: Web application framework - see Objective-J
 Cargo: Packaging and build system for the Rust programming language
 Carrier Peering: GCP service: Peer through a carrier
 Cascade Framework: CSS framework with optional JavaScript extensions
+category theory: Branch of mathematics that formalizes structure using labeled, directed graphs
+category: Collection of objects and the morphisms (transformations) between them
 Cayenne (Lennart Augustsson): A programming language
 CDK (Cloud Development Kit): Higher level SDK for AWS
 CDN (Content Delivery Network): Distributed network of servers that host content closer to clients
@@ -233,6 +242,7 @@ Chatbot: Service for monitoring AWS in Slack or Chime
 CHILL: A programming language
 Chime: AWS service for team chat/video conferencing
 CHIP-8: A programming language
+choice type: See tagged union
 chomski (pattern parsing virtual machine/pep): A programming language
 Constraint Handling Rules (CHR): A programming language
 CHR.js (Constraint Handling Rules): JavaScript library for declarative, rule-based CHS language
@@ -248,6 +258,7 @@ Clipper: A programming language
 CLIPS: A programming language
 CLIST: A programming language
 Clojure: A programming language
+closure: Stores a function and a captured environment such that some variables are bound without being supplied by the caller
 Cloud APIs: GCP service: APIs for cloud services
 Cloud Armor: GCP service: DDoS protection and WAF
 Cloud Asset Inventory: GCP service: All assets, one place
@@ -358,10 +369,13 @@ COMAL: A programming language
 COMIT: A programming language
 Common Lisp (also known as CL): A programming language
 Communication Services (Azure): Azure communication platform
+commutativity: Producing the same result regardless of order (e.g. 2 + 3 = 3 + 2)
 COMPASS: A programming language
 Component Pascal: A programming language
+composable: Providing components that can be selected and assembled in various combinations to satisfy varying requirements
 Comprehend Medical: AWS machine learning / NLP service tailored to medical field
 Comprehend: AWS machine learning / NLP service
+compress: See Fold
 Compute Engine: GCP service: VMs, GPUs, TPUs, Disks
 Compute Optimizer: Analyze your AWS resources for savings
 Computer Vision (Azure): Azure image recognition service
@@ -380,8 +394,11 @@ Content Moderator: Azure service: Automated image, text, and video moderation
 Content Protection (Azure): Deliver content using AES, PlayReady, Widevine, and Fairplay via Azure
 Context-aware Access: GCP service: End-user attribute-based access control
 contextlib2: Python library - Backports and enhancements for the contextlib module
+continuation-passing style: Programming style where control is passed in the form of a continuation
+continuation: Representation of the state of a program's execution which allows you to access and manipulate it (helpful for implementing asynchronous control flow, coroutines, generators, exceptions)
 Control Tower: Set up and govern multiple AWS accounts
 Cool: A programming language
+coproduct: See tagged union
 Coq: A programming language
 Coral 66: A programming language
 Corretto: AWS distribution of OpenJDK
@@ -404,6 +421,7 @@ C*: A programming language
 Cuneiform: A programming language
 Curl: A programming language
 Curry: A programming language
+currying: Conversion of a function that takes multiple arguments to a series of single-argument functions
 Custom Vision: Azure: Customize vision models
 Cybil: A programming language
 CycleCloud: Azure: create, manage, operate, and optimize HPC clusters
@@ -464,12 +482,15 @@ Device Farm: AWS managed iOS/Android device testing
 DevOps Guru: AWS ML powered operations service
 Dialogflow: GCP service: Create conversational interfaces
 DIBOL: A programming language
+dictionary: See Associative array
 Digital Twins (Azure): Azure service for IoT spatial intelligence
 dill: Python library - serialize all of python
 DinkC: A programming language
 Direct Connect: Get a dedicated network connection to AWS datacenters
 Direct Peering: GCP service: Peer with GCP
 Directory Service: AWS managed Microsoft AD
+discriminated union: See tagged union
+disjoint union: See tagged union
 Disk Storage (Azure): Azure block storage for VMs
 distlib: Python library - Distribution utilities
 distro: Python library - OS platform information API
@@ -531,6 +552,7 @@ Ember.js: JavaScript web framework
 Emerald: A programming language
 EMR (Elastic MapReduce): AWS managed 'big data' services
 Encoding (Azure): Azure video encoding service
+endomorphism: Function that transforms one type to the same type, e.g. String -> String
 enterprise software: Software for larger organizations instead of individuals
 entrypoints: Python library - Discover and load entry points from installed packages.
 enum34: Python library - Python 3.4 Enum backported older Python versions
@@ -538,6 +560,7 @@ Enyo: JavaScript web application framework
 Epigram: A programming language
 EPL (Easy Programming Language): A programming language
 EPL (Eltron Programming Language): A programming language
+equational reasoning: Thinking in terms of values and expressions that can be substituted in all contexts (like math equations)
 Erlang: A programming language
 Error Reporting: GCP service: App error reporting
 ES (Elasticsearch Service): AWS managed Elasticsearch clusters
@@ -579,6 +602,8 @@ Files (Azure): Azure file shares using SMB 3.0 protocol
 Firewall (Azure): Azure firewalls
 Firewall Manager (Azure): Azure centralized network security policy and route management
 Firewall Manager (AWS): AWS service for managing many firewalls
+first-order functions: Functions that aren't higher order (see Higher-order functions
+first-order logic: Mathematics/logic term for system of statements that are formally defined and can be evaluated to true/false (also known as Predicate logic)
 fish: A programming language
 Fjölnir: A programming language
 FL: A programming language
@@ -592,6 +617,8 @@ FLOW-MATIC: A programming language
 FOCAL: A programming language
 FOCUS: A programming language
 FOIL: A programming language
+fold: Application of a function against an accumulator and each element in a list/array that results in a single value
+foldable: See Fold
 Forecast: AWS managed service to produce time-series forecasts
 Form Recognizer: Azure: ML-powered document extraction service
 FORMAC: A programming language
@@ -610,7 +637,10 @@ fsspec: Python library - File-system specification
 F*: A programming language
 FSx: Managed high-performance filesystems on AWS (Lustre, Windows File Server, SMB)
 funcsigs: Python library - Python function signatures from PEP362 for Python 2.6, 2.7 and 3.2+
+function composition: Producing a function from two or more functions that feeds the output of one into the other(s) (see Partial application)
 Functions (Azure): Azure serverless functions
+functor (C++): In C++, unlike functional programming, functor means a function object
+functor (Functional Programming): Something that can mapped over. Simple examples are arrays and the Option type. Must preserve identity and be composable.
 FusionCharts: JavaScript library - data visualizations
 Futhark: A programming language
 future: Python library - single-source support for Python 3 and 2
@@ -699,9 +729,14 @@ HealthLake: AWS data management services for medical field
 Hermes: A programming language
 High Level Assembly: A programming language
 Highcharts: JavaScript library - data visualizations
+higher-kinded types (HKT): Higher-level type constructor abstracting over entities that are themselves type constructors
+higher-order functions (HOF): A function that returns a function and/or takes one or more functions as argument(s)
+higher-order logic: Mathematics/logic term for predicate logic with additional quantifiers/functions
 HLSL: A programming language
 Hollywood: A programming language
 HolyC: A programming language
+homomorphic encryption: Allows computation on encrypted data without decrypting it first
+homomorphism: A structure-preserving mapping function. Elements/structure may appear different before and after transformation, e.g. squaring a number.
 Honeycode: AWS 'no code' apps
 Hop: A programming language
 Hope: A programming language
@@ -727,6 +762,9 @@ IBM Informix-4GL: A programming language
 IBM RPG: A programming language
 Icon: A programming language
 IDE (Integrated Development Environment): Code editor that often includes language-specific features like a debugger
+idempotence: A function or service operation is idempotent if calling it multiple times does not produce a different result
+idempotency: See idempotence
+idempotent: See idempotence
 IDL: A programming language
 idna: Python library - Internationalized Domain Names in Applications (IDNA)
 Idris: A programming language
@@ -736,6 +774,7 @@ Immersive Reader: Azure: empower everyone to read and comprehend text
 Inform: A programming language
 Information Protection (Azure): Azure service to protect your sensitive information
 infrastructure-as-code: Practice of creating and managing infrastructure programmatically for repeatability
+inject: See Fold
 Inspector: AWS service that analyzes your security posture
 interface: Defines operations that can be called on a class or library
 Internet Analyzer (Azure): Azure: Test how networking infrastructure changes will impact your customers' performance.
@@ -757,6 +796,7 @@ ipython-genutils: Python library - Vestigial utilities from IPython
 ipython: Python library - Interactive Computing
 ipywidgets: Python library - IPython HTML widgets for Jupyter
 isodate: Python library - An ISO 8601 date/time/duration parser and formatter
+isomorphism: Function that maps one structure to another without losing structure. Is reversible. e.g. x=1,y=2 -> (1,2)
 isort: Python library - utility / library to sort Python imports
 itsdangerous: Python library - Various helpers to pass data to untrusted environments and back.
 J# (J sharp): A programming language
@@ -818,6 +858,7 @@ keyring: Python library - Store and access your passwords safely
 Keyspaces: AWS Managed Cassandra
 KF: GCP service: Cloud Foundry to Kubernetes
 KIF: A programming language
+kind: The type of a type constructor
 Kinect DK: Azure: build computer vision and speech models
 Kinesis Data Firehose: AWS service for streaming data directly into storage/DBs
 Kinesis: AWS service for streaming data
@@ -842,7 +883,9 @@ Kv: A programming language
 LabVIEW: A programming language
 Ladder: A programming language
 Lake Formation: AWS service to manage data lakes
-Lambda: AWS serverless functions
+Lambda (AWS): AWS serverless functions
+lambda calculus (λ-calculus): Formal system in mathematical logic for expressing computation based on function abstraction
+lambda (λ): Anonymous function (no name) that can still be treated like a value, passed to other functions, returned, etc.
 Language H: A programming language
 Language Understanding: Azure: Teach your apps to understand commands from your users
 LANSA: A programming language
@@ -852,8 +895,10 @@ lazy-object-proxy: Python library - lazy object proxy
 LC-3: A programming language
 Lean: A programming language
 Legoscript: A programming language
+lens: An optic that applies to product types. See Optics
 Lex: AWS service for AI powered chatbots
 License Manager (AWS): Manage software licenses on AWS
+lift: transform a function into a function within another (usually more general) setting
 lightgbm: Python library - LightGBM
 Lighthouse: Azure service to manage customer acccess
 Lightsail: AWS service that abstracts detail to provide a VPS-like experience
@@ -916,6 +961,8 @@ Managed Blockchain: AWS service for creating and managing blockchains
 Managed Instance for Apache Cassandra: Azure managed Apache Cassandra
 Managed Service for Microsoft Active Directory: GCP service: Managed Microsoft Active Directory
 Máni: A programming language
+map (data structure): See Associative array
+map (function): Applies a given function to each element of a list and produces a new list of the results
 Maple: A programming language
 MAPPER (now part of BIS): A programming language
 Maps (Azure): Azure location APIs that provide geospatial context
@@ -934,6 +981,7 @@ Max (Max Msp – Graphical Programming Environment): A programming language
 Maxima (see also Macsyma): A programming language
 MaxScript internal language 3D Studio Max: A programming language
 Maya (MEL): A programming language
+maybe: Tagged union with two types often called Some and None. a.k.a. Option
 mccabe: Python library - McCabe checker, plugin for flake8
 MDL: A programming language
 Media Services (Azure): Azure service to encode, store, and stream video
@@ -975,11 +1023,13 @@ Modula: A programming language
 Modular Datacenter: Azure rugged datacenter solution
 Mohol: A programming language
 Mojito: JavaScript MVC web application framework
+monad: Abstraction that allows you to wrap values and provides function(s) for composition
 Monitor (Azure): Azure monitoring and tracing
 Monitron: AWS service for detecting anomalies in industrial machinery
 MOO: A programming language
 MooTools: JavaScript library - (My Object-Oriented Tools) object-oriented JavaScript framework
 more-itertools: Python library - More routines for operating on iterables, beyond itertools
+morphism: A function that transforms one structure to another
 Mortran: A programming language
 Mouse: A programming language
 mozlog: Python library - Robust log handling specialized for logging in the Mozilla universe
@@ -1075,7 +1125,9 @@ OPL: A programming language
 OPS5: A programming language
 OpsWorks: AWS managed Chef and Puppet
 opt-einsum: Python library - Optimizing numpys einsum function
+optics: Functional abstraction/value that allows you to get/set particular things in complex data types
 OptimJ: A programming language
+option: Tagged union with two types often called Some and None. a.k.a. Maybe
 Orbital: Azure service for satellite ground station and scheduling
 Orc: A programming language
 ORCA/Modula-2: A programming language
@@ -1099,6 +1151,8 @@ paramiko: Python library - SSH2 protocol library
 ParaSail: A programming language
 PARI/GP: A programming language
 parso: Python library - A Python Parser
+partial application: Process of fixing one or more function arguments to produce a function with fewer arguments
+partial function: See partial application for the common CS meaning (link for this is a related mathematics term)
 Partner Interconnect: GCP service: Connect on-prem network to VPC
 Pascal Script: A programming language
 Pascal – ISO 7185: A programming language
@@ -1153,6 +1207,7 @@ PL/SQL: A programming language
 pluggy: Python library - plugin and hook calling mechanisms for python
 Plus: A programming language
 ply: Python library - Lex & Yacc
+point-free style: Where a function is defined through function composition instead of identifying arguments
 Policy (Azure): Implement corporate governance and standards on Azure
 Polly: AWS text-to-speech service
 POP-11: A programming language
@@ -1166,12 +1221,15 @@ PowerBuilder – 4GL GUI generator: A programming language
 Powerhouse: A programming language
 PowerShell: A programming language
 PPL: A programming language
+predicate logic: Mathematics/logic term for system of statements that are formally defined and can be evaluated to true/false (also known as First-order logic)
+predicate: Function that returns true or false, often used as a filter
 Preemptible VMs: GCP service: Short-lived compute instances
 Private Catalog: GCP service: Internal Solutions Catalog
 Private Link (Azure): Azure: Private access to services hosted on the Azure platform
 Pro*C: A programming language
 Processing.js: JavaScript port of the Processing programming language
 Processing: A programming language
+product type: Compound type (e.g. structs, records, and tuples)
 Prograph: A programming language
 PROIV: A programming language
 Project Bonsai: Azure: machine teaching service for creating intelligent industrial control systems using simulations
@@ -1196,9 +1254,11 @@ psycopg2-binary: Python library - psycopg2 - Python-PostgreSQL Database Adapter
 psycopg2: Python library - Python-PostgreSQL Database Adapter
 ptyprocess: Python library - Run a subprocess in a pseudo terminal
 Pure Data: A programming language
+pure function: A function whose outputs are determined solely by its inputs and that causes no side effects
 Pure: A programming language
 PureMVC: JavaScript MVC web framework
 PureScript: A programming language
+purity: See pure function
 Purview: Azure: unified data governance
 py: Python library - library with cross-python path, ini-parsing, io, code, log facilities
 py4j: Python library - Enables Python programs to dynamically access arbitrary Java objects
@@ -1272,7 +1332,9 @@ Red: A programming language
 Redcode: A programming language
 redis: Python library - client for Redis key-value store
 Redshift: AWS data warehouse
+reduce: See Fold. Also see MapReduce for distributed systems term
 REFAL: A programming language
+referential transparency: An expressions is referentially transparent if it can be replaced with its value and not affect the program (and vice versa)
 regex: Python library - Alternative regular expression module, to replace re.
 Region: Term used across cloud computing providers usually referring to a group of AZs in the same general vicinity
 Rekognition: AWS service that identifies things in images and videos
@@ -1346,6 +1408,7 @@ Security Key Enforcement: GCP service: Two-step key verification
 Sed: A programming language
 Seed7: A programming language
 Self: A programming language
+semigroup: Type class / object with one associative operator (often named 'append', 'combine', or 'concat'
 send2trash: Python library - Send file to trash natively under Mac OS X, Windows and Linux
 SenseTalk: A programming language
 Sentinel (Azure): Azure SIEM and intelligent security analytics
@@ -1360,11 +1423,13 @@ Service Fabric (Azure): Azure: microservices and container orchestration for Win
 Service Health (Azure): Azure personalized reporting on Azure issues
 SES (Simple Email Service): AWS service for sending emails
 SETL: A programming language
+setoid: Functional programming term for an object with an equals method
 setuptools-scm: Python library - the blessed package to manage your versions by scm tags
 setuptools: Python library - manage Python packages
 shapely: Python library - Geometric objects, predicates, and operations
 Shield: AWS service that protects you against DDoS attacks
 Shielded VMs: GCP service: Hardened VMs
+side effect: Modification of state outside of a function, e.g. the heap or I/O (see Pure function)
 SIGNAL: A programming language
 Signer (AWS): Managed code-signing for AWS
 SiMPLE: A programming language
@@ -1445,6 +1510,7 @@ Stream Analytics: Azure real-time analytics service
 Strongtalk: A programming language
 STS (Security Token Service): AWS service for requesting temporary credentials
 Subtext: A programming language
+sum type: See tagged union
 Sumerian: AWS tools for 3D/AR/VR
 SuperCollider: A programming language
 SuperTalk: A programming language
@@ -1461,9 +1527,11 @@ T-SQL: A programming language
 T: A programming language
 Table Storage (Azure): Azure managed NoSQL database
 tabulate: Python library - Pretty-print tabular data
+tacit programming: See Point-free style
 TACL: A programming language
 TACPOL: A programming language
 TADS: A programming language
+tagged union: Data structure that can hold a value of different but fixed types (only one at a time)
 TAL: A programming language
 Tcl: A programming language
 Tea: A programming language
@@ -1517,6 +1585,8 @@ TUTOR: A programming language
 Twig.js: JavaScript library the Twig PHP template engine
 TXL: A programming language
 Tynker: A programming language
+type class: Allows ad-hoc polymorphism by specificying the behaviors needed and not explicit inheritance
+type constructor: Builds new types from old ones. e.g. given an Int to List[T], it builds List[Int]
 typed-ast: Python library - a fork of Python 2 and 3 ast modules with type comment support
 TypeScript: A programming language
 typing-extensions: Python library - Backported and Experimental Type Hints for Python 3.5+
@@ -1539,6 +1609,8 @@ urllib3: Python library - HTTP
 uvloop: Python library - asyncio event loop on top of libuv
 V8 Engine: JavaScript interpreter that runs in the Chrome browser but is also used elsewhere (notably Node.js)
 Vala: A programming language
+variant record: See tagged union
+variant: See tagged union
 Velocity.js: JavaScript library for website animation
 Verge3D: JavaScript library - real-time 3D renderer for website animation
 Verilog: A programming language
