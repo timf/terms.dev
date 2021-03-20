@@ -1448,7 +1448,7 @@ SLIP: A programming language
 SMALL: A programming language
 Smalltalk: A programming language
 smart-open: Python library - Utils for streaming large files (S3, HDFS, GCS, Azure Blob Storage, gzip, bz2...)
-SML: A programming language
+Standard ML (SML): A programming language
 smmap: Python library - A pure Python implementation of a sliding window memory map manager
 Snap!: A programming language
 sniffio: Python library - Sniff out which async library your code is running under
