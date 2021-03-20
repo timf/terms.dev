@@ -5,6 +5,8 @@ date = 2021-03-06
 slug = "goal"
 [extra]
 link = "https://en.wikipedia.org/wiki/Game_Oriented_Assembly_Lisp"
+[taxonomies]
+groups = ["proglang"]
 +++
 A programming language
 

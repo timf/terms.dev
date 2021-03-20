@@ -5,6 +5,8 @@ date = 2021-03-06
 slug = "swift2"
 [extra]
 link = "https://en.wikipedia.org/wiki/Swift_(parallel_scripting_language)"
+[taxonomies]
+groups = ["proglang"]
 +++
 A programming language
 

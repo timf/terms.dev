@@ -5,6 +5,8 @@ date = 2021-03-06
 slug = "fortran"
 [extra]
 link = "https://en.wikipedia.org/wiki/Fortran"
+[taxonomies]
+groups = ["proglang"]
 +++
 A programming language
 

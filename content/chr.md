@@ -5,6 +5,8 @@ date = 2021-03-06
 slug = "chr"
 [extra]
 link = "https://en.wikipedia.org/wiki/Constraint_Handling_Rules"
+[taxonomies]
+groups = ["proglang"]
 +++
 A programming language
 

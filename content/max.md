@@ -5,6 +5,8 @@ date = 2021-03-06
 slug = "max"
 [extra]
 link = "https://en.wikipedia.org/wiki/Max_(software)"
+[taxonomies]
+groups = ["proglang"]
 +++
 A programming language
 

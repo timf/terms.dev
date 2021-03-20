@@ -5,6 +5,8 @@ date = 2021-03-06
 slug = "tex2"
 [extra]
 link = "https://en.wikipedia.org/wiki/Text_Executive_Programming_Language"
+[taxonomies]
+groups = ["proglang"]
 +++
 A programming language
 

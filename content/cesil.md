@@ -5,6 +5,8 @@ date = 2021-03-06
 slug = "cesil"
 [extra]
 link = "https://en.wikipedia.org/wiki/Cesil"
+[taxonomies]
+groups = ["proglang"]
 +++
 A programming language
 

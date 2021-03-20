@@ -5,6 +5,8 @@ date = 2021-03-06
 slug = "csh"
 [extra]
 link = "https://en.wikipedia.org/wiki/C_Shell"
+[taxonomies]
+groups = ["proglang"]
 +++
 A programming language
 

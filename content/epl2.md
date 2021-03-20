@@ -5,6 +5,8 @@ date = 2021-03-06
 slug = "epl2"
 [extra]
 link = "https://en.wikipedia.org/wiki/Eltron_Programming_Language"
+[taxonomies]
+groups = ["proglang"]
 +++
 A programming language
 

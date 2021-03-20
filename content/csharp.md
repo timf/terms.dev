@@ -5,6 +5,8 @@ date = 2021-03-06
 slug = "csharp"
 [extra]
 link = "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"
+[taxonomies]
+groups = ["proglang"]
 +++
 A programming language
 

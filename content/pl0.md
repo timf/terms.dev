@@ -5,6 +5,8 @@ date = 2021-03-06
 slug = "pl0"
 [extra]
 link = "https://en.wikipedia.org/wiki/PL/0"
+[taxonomies]
+groups = ["proglang"]
 +++
 A programming language
 

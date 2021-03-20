@@ -5,6 +5,8 @@ date = 2021-03-06
 slug = "cl-ibm"
 [extra]
 link = "https://en.wikipedia.org/wiki/AS/400_Control_Language"
+[taxonomies]
+groups = ["proglang"]
 +++
 A programming language
 
